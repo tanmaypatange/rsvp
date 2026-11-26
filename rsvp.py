@@ -29,6 +29,8 @@ import runner  # noqa: E402
 SAMPLE_DIR = os.path.join(HERE, "sample")
 SAMPLE_CONFIG = os.path.join(SAMPLE_DIR, "config.sample.yaml")
 SAMPLE_REPORT = os.path.join(SAMPLE_DIR, "sample_report.md")
+SAMPLE_RUNLOG = os.path.join(SAMPLE_DIR, "sample_runlog.jsonl")
+SAMPLE_CODED = os.path.join(SAMPLE_DIR, "sample_coded_runlog.csv")
 
 
 def _report(m):
@@ -80,7 +82,9 @@ def cmd_dry_run(args):
     code = _report(m)
     if code == 0 and args.write_sample:
         shutil.copyfile(m.path("report.md"), SAMPLE_REPORT)
-        print("sample report updated: %s" % SAMPLE_REPORT)
+        shutil.copyfile(m.path("runlog.jsonl"), SAMPLE_RUNLOG)
+        shutil.copyfile(m.path("coded_runlog.csv"), SAMPLE_CODED)
+        print("sample report and logs updated: %s" % SAMPLE_DIR)
     return code
 
 

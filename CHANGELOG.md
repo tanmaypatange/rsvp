@@ -8,6 +8,7 @@ First version of the kit, implementing RSVP v0.1.
 
 ### Added
 
+- `sample/sample_runlog.jsonl`, `sample/sample_coded_runlog.csv` and `sample/README.md`: the raw log and coded log the sample report is built from, with an explanation of each stage. The tests check that a fresh dry run reproduces all three sample files byte for byte.
 - `config.example.yaml` and `prompts.template`: the pre-registered protocol, validated before any run.
 - Runner with separate engine adapters (`openai_responses`, `perplexity`, `fake`): fresh context per run, no follow-ups, at most three attempts for technical failures only, runs spread across days and shuffled within each day, declared location passed by setting or prompt sentence as recorded.
 - Counter: mention flag per run with aliases and exclusions, citation by registrable domain with tracking parameters stripped and redirects resolved, ghost citations, three exclusive position bands.

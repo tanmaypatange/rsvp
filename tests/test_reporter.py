@@ -261,7 +261,14 @@ class EndToEnd(unittest.TestCase):
             self.assertEqual(fresh, committed)
             self.assertIn("**Illustrative.**", fresh)
             with open(os.path.join(mdir, "runlog.jsonl")) as fh:
-                self.assertEqual(len(fh.read().splitlines()), 300)
+                fresh_log = fh.read()
+            self.assertEqual(len(fresh_log.splitlines()), 300)
+            with open(os.path.join(ROOT, "sample", "sample_runlog.jsonl")) as fh:
+                self.assertEqual(fresh_log, fh.read())
+            with open(os.path.join(mdir, "coded_runlog.csv")) as fh:
+                fresh_coded = fh.read()
+            with open(os.path.join(ROOT, "sample", "sample_coded_runlog.csv")) as fh:
+                self.assertEqual(fresh_coded, fh.read())
         finally:
             shutil.rmtree(out, ignore_errors=True)
 

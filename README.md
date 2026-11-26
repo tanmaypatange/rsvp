@@ -12,7 +12,7 @@ One config file, one command, one report.
 4. **Counter** (`counter.py`): codes each run for mention, citation, ghost citation and position.
 5. **Reporter** (`reporter.py`, `report_template.md`): computes the rates, bands, share of voice and run spread, and writes the one-page report. It refuses to write a report with an empty slot.
 6. **Run log** (`runlog.py`): one row per run, append only. The config is hashed when a measurement starts.
-7. **Sample report** (`sample/sample_report.md`): built by the dry run from made-up canned answers, labelled illustrative.
+7. **Sample report** (`sample/sample_report.md`): built by the dry run from made-up canned answers, labelled illustrative. The raw run log (`sample/sample_runlog.jsonl`) and the coded run log (`sample/sample_coded_runlog.csv`) it is built from sit beside it. `sample/README.md` explains each file and how they connect.
 
 Plus `rsvp.py` (the command line), `bands.py` (the Wilson band and other statistics), `config.py`, `yamlsubset.py` (a small YAML reader), and `tests/`.
 

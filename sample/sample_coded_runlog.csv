@@ -1,0 +1,301 @@
+run,date,engine,prompt,need,intent,branded,location,status,valid,brands,mention,cited,ghost,pos,pos_band,comp,domains
+R00001,2026-11-02,engine-a,P01,N01,informational,0,United States,ok,1,Corvid Cash;Penfold Pay,0,0,0,0,,,
+R00002,2026-11-02,engine-a,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,ledgerreview.example;freelancehub.example;startupnotes.example
+R00003,2026-11-03,engine-a,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,startupnotes.example;bookkeepingweekly.example
+R00004,2026-11-03,engine-a,P01,N01,informational,0,United States,ok,1,Quillmark Books;Saltbox Books,0,0,0,0,,Quillmark Books;Saltbox Books,saltboxbooks.example;quillmarkbooks.example;taxbasics.example
+R00005,2026-11-04,engine-a,P01,N01,informational,0,United States,ok,1,Penfold Pay,0,0,0,0,,,ledgerreview.example;taxbasics.example;bookkeepingweekly.example
+R00006,2026-11-04,engine-a,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,
+R00007,2026-11-05,engine-a,P01,N01,informational,0,United States,ok,1,Corvid Cash;Quillmark Books;Penfold Pay,0,0,0,0,,Quillmark Books,taxbasics.example;smallbizdesk.example;bookkeepingweekly.example
+R00008,2026-11-05,engine-a,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,taxbasics.example;freelancehub.example;startupnotes.example
+R00009,2026-11-06,engine-a,P01,N01,informational,0,United States,ok,1,Harrow Accounts;Penfold Pay;Quillmark Books;Larkspur Tax,0,0,0,0,,Harrow Accounts;Quillmark Books,freelancehub.example;penfoldpay.example;smallbizdesk.example
+R00010,2026-11-06,engine-a,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,taxbasics.example;shopkeeper.example
+R00011,2026-11-02,engine-a,P02,N02,informational,0,United States,ok,1,,0,0,0,0,,,shopkeeper.example
+R00012,2026-11-02,engine-a,P02,N02,informational,0,United States,ok,1,,0,0,0,0,,,ledgerreview.example;taxbasics.example;bookkeepingweekly.example
+R00013,2026-11-03,engine-a,P02,N02,informational,0,United States,ok,1,Penfold Pay;Saltbox Books;Quillmark Books,0,0,0,0,,Saltbox Books;Quillmark Books,
+R00014,2026-11-03,engine-a,P02,N02,informational,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00015,2026-11-04,engine-a,P02,N02,informational,0,United States,ok,1,Quillmark Books;Harrow Accounts;Larkspur Tax,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00016,2026-11-04,engine-a,P02,N02,informational,0,United States,ok,1,,0,0,0,0,,,taxbasics.example;bookkeepingweekly.example;smallbizdesk.example
+R00017,2026-11-05,engine-a,P02,N02,informational,0,United States,ok,1,Harrow Accounts;Tidewater Ledger;Corvid Cash;Larkspur Tax,1,0,0,2,second_third,Harrow Accounts,freelancehub.example;bookkeepingweekly.example;smallbizdesk.example
+R00018,2026-11-05,engine-a,P02,N02,informational,0,United States,ok,1,,0,0,0,0,,,smallbizdesk.example
+R00019,2026-11-06,engine-a,P02,N02,informational,0,United States,ok,1,Harrow Accounts,0,0,0,0,,Harrow Accounts,harrowaccounts.example;smallbizdesk.example
+R00020,2026-11-06,engine-a,P02,N02,informational,0,United States,ok,1,,0,0,0,0,,,smallbizdesk.example
+R00021,2026-11-02,engine-a,P03,N03,informational,0,United States,ok,1,Saltbox Books;Harrow Accounts,0,0,0,0,,Saltbox Books;Harrow Accounts,harrowaccounts.example;bookkeepingweekly.example
+R00022,2026-11-02,engine-a,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,
+R00023,2026-11-03,engine-a,P03,N03,informational,0,United States,ok,1,Corvid Cash;Quillmark Books,0,0,0,0,,Quillmark Books,startupnotes.example;bookkeepingweekly.example
+R00024,2026-11-03,engine-a,P03,N03,informational,0,United States,ok,1,Harrow Accounts;Penfold Pay,0,1,1,0,,Harrow Accounts,shopkeeper.example;tidewaterledger.example;taxbasics.example;smallbizdesk.example
+R00025,2026-11-04,engine-a,P03,N03,informational,0,United States,ok,1,Corvid Cash,0,0,0,0,,,startupnotes.example;corvidcash.example
+R00026,2026-11-04,engine-a,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,startupnotes.example;ledgerreview.example
+R00027,2026-11-05,engine-a,P03,N03,informational,0,United States,ok,1,Larkspur Tax,0,0,0,0,,,startupnotes.example
+R00028,2026-11-05,engine-a,P03,N03,informational,0,United States,refused,1,,0,0,0,0,,,
+R00029,2026-11-06,engine-a,P03,N03,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,smallbizdesk.example
+R00030,2026-11-06,engine-a,P03,N03,informational,0,United States,ok,1,Harrow Accounts;Larkspur Tax;Quillmark Books,0,1,1,0,,Harrow Accounts;Quillmark Books,taxbasics.example;smallbizdesk.example;freelancehub.example;tidewaterledger.example;quillmarkbooks.example;harrowaccounts.example
+R00031,2026-11-02,engine-a,P04,N04,commercial,0,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,shopkeeper.example
+R00032,2026-11-02,engine-a,P04,N04,commercial,0,United States,ok,1,Quillmark Books;Saltbox Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Saltbox Books;Harrow Accounts,taxbasics.example;saltboxbooks.example
+R00033,2026-11-03,engine-a,P04,N04,commercial,0,United States,ok,1,Harrow Accounts;Quillmark Books;Saltbox Books,0,0,0,0,,Harrow Accounts;Quillmark Books;Saltbox Books,bookkeepingweekly.example;startupnotes.example
+R00034,2026-11-03,engine-a,P04,N04,commercial,0,United States,ok,1,Harrow Accounts;Corvid Cash;Quillmark Books,0,0,0,0,,Harrow Accounts;Quillmark Books,startupnotes.example
+R00035,2026-11-04,engine-a,P04,N04,commercial,0,United States,ok,1,Corvid Cash,0,0,0,0,,,shopkeeper.example
+R00036,2026-11-04,engine-a,P04,N04,commercial,0,United States,ok,1,Harrow Accounts;Penfold Pay;Quillmark Books,0,0,0,0,,Harrow Accounts;Quillmark Books,
+R00037,2026-11-05,engine-a,P04,N04,commercial,0,United States,ok,1,Corvid Cash;Quillmark Books;Tidewater Ledger;Harrow Accounts,1,0,0,3,second_third,Quillmark Books;Harrow Accounts,quillmarkbooks.example;startupnotes.example
+R00038,2026-11-05,engine-a,P04,N04,commercial,0,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,shopkeeper.example;quillmarkbooks.example;smallbizdesk.example
+R00039,2026-11-06,engine-a,P04,N04,commercial,0,United States,ok,1,Larkspur Tax,0,0,0,0,,,shopkeeper.example;bookkeepingweekly.example
+R00040,2026-11-06,engine-a,P04,N04,commercial,0,United States,ok,1,Penfold Pay,0,0,0,0,,,bookkeepingweekly.example;taxbasics.example
+R00041,2026-11-02,engine-a,P05,N04,commercial,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,
+R00042,2026-11-02,engine-a,P05,N04,commercial,0,United States,ok,1,Larkspur Tax;Harrow Accounts;Penfold Pay;Quillmark Books;Corvid Cash,0,0,0,0,,Harrow Accounts;Quillmark Books,shopkeeper.example;corvidcash.example;larkspurtax.example
+R00043,2026-11-03,engine-a,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Harrow Accounts;Penfold Pay,0,0,0,0,,Saltbox Books;Harrow Accounts,startupnotes.example;penfoldpay.example
+R00044,2026-11-03,engine-a,P05,N04,commercial,0,United States,ok,1,Corvid Cash;Quillmark Books;Tidewater Ledger;Harrow Accounts,1,0,0,3,second_third,Quillmark Books;Harrow Accounts,taxbasics.example;bookkeepingweekly.example
+R00045,2026-11-04,engine-a,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Quillmark Books,0,0,0,0,,Saltbox Books;Quillmark Books,shopkeeper.example;bookkeepingweekly.example;freelancehub.example
+R00046,2026-11-04,engine-a,P05,N04,commercial,0,United States,ok,1,Harrow Accounts;Tidewater Ledger;Saltbox Books;Quillmark Books,1,0,0,2,second_third,Harrow Accounts;Saltbox Books;Quillmark Books,
+R00047,2026-11-05,engine-a,P05,N04,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Larkspur Tax,0,0,0,0,,Quillmark Books;Harrow Accounts,larkspurtax.example;startupnotes.example;shopkeeper.example
+R00048,2026-11-05,engine-a,P05,N04,commercial,0,United States,ok,1,Larkspur Tax;Quillmark Books,0,1,1,0,,Quillmark Books,tidewaterledger.example;bookkeepingweekly.example;quillmarkbooks.example
+R00049,2026-11-06,engine-a,P05,N04,commercial,0,United States,ok,1,Saltbox Books,0,0,0,0,,Saltbox Books,
+R00050,2026-11-06,engine-a,P05,N04,commercial,0,United States,ok,1,Tidewater Ledger;Saltbox Books;Quillmark Books;Corvid Cash,1,1,0,1,first,Saltbox Books;Quillmark Books,tidewaterledger.example;quillmarkbooks.example;bookkeepingweekly.example
+R00051,2026-11-02,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Larkspur Tax,0,0,0,0,,Quillmark Books;Harrow Accounts,bookkeepingweekly.example;smallbizdesk.example;taxbasics.example
+R00052,2026-11-02,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Corvid Cash;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00053,2026-11-03,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,taxbasics.example;ledgerreview.example;freelancehub.example
+R00054,2026-11-03,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Corvid Cash,0,0,0,0,,Quillmark Books,shopkeeper.example;freelancehub.example;bookkeepingweekly.example
+R00055,2026-11-04,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Tidewater Ledger;Penfold Pay;Saltbox Books,1,0,0,3,second_third,Quillmark Books;Harrow Accounts;Saltbox Books,
+R00056,2026-11-04,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Tidewater Ledger;Larkspur Tax,1,0,0,2,second_third,Quillmark Books,startupnotes.example
+R00057,2026-11-05,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Corvid Cash;Larkspur Tax,0,0,0,0,,Quillmark Books,shopkeeper.example
+R00058,2026-11-05,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Penfold Pay,0,0,0,0,,Quillmark Books;Harrow Accounts,shopkeeper.example;bookkeepingweekly.example;smallbizdesk.example
+R00059,2026-11-06,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Saltbox Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Saltbox Books;Harrow Accounts,smallbizdesk.example;taxbasics.example
+R00060,2026-11-06,engine-a,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Larkspur Tax;Tidewater Ledger,1,1,0,4,fourth_later,Quillmark Books;Harrow Accounts,tidewaterledger.example;taxbasics.example;shopkeeper.example;smallbizdesk.example
+R00061,2026-11-02,engine-a,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00062,2026-11-02,engine-a,P07,N06,transactional,0,United States,timeout,0,,0,0,0,0,,,
+R00063,2026-11-03,engine-a,P07,N06,transactional,0,United States,ok,1,,0,0,0,0,,,
+R00064,2026-11-03,engine-a,P07,N06,transactional,0,United States,ok,1,Penfold Pay;Tidewater Ledger;Quillmark Books;Harrow Accounts;Saltbox Books,1,0,0,2,second_third,Quillmark Books;Harrow Accounts;Saltbox Books,freelancehub.example;harrowaccounts.example
+R00065,2026-11-04,engine-a,P07,N06,transactional,0,United States,ok,1,Saltbox Books;Harrow Accounts;Penfold Pay;Quillmark Books,0,0,0,0,,Saltbox Books;Harrow Accounts;Quillmark Books,smallbizdesk.example;shopkeeper.example
+R00066,2026-11-04,engine-a,P07,N06,transactional,0,United States,ok,1,Larkspur Tax;Quillmark Books;Penfold Pay,0,0,0,0,,Quillmark Books,
+R00067,2026-11-05,engine-a,P07,N06,transactional,0,United States,ok,1,Penfold Pay;Harrow Accounts;Quillmark Books;Larkspur Tax,0,0,0,0,,Harrow Accounts;Quillmark Books,shopkeeper.example;quillmarkbooks.example;taxbasics.example;startupnotes.example
+R00068,2026-11-05,engine-a,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Corvid Cash;Penfold Pay;Saltbox Books,0,1,1,0,,Quillmark Books;Saltbox Books,corvidcash.example;tidewaterledger.example;smallbizdesk.example;freelancehub.example;quillmarkbooks.example;ledgerreview.example
+R00069,2026-11-06,engine-a,P07,N06,transactional,0,United States,ok,1,Saltbox Books;Tidewater Ledger;Quillmark Books,1,0,0,2,second_third,Saltbox Books;Quillmark Books,bookkeepingweekly.example
+R00070,2026-11-06,engine-a,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,quillmarkbooks.example;harrowaccounts.example;smallbizdesk.example;ledgerreview.example
+R00071,2026-11-02,engine-a,P08,N07,transactional,0,United States,ok,1,Saltbox Books;Quillmark Books;Penfold Pay,0,0,0,0,,Saltbox Books;Quillmark Books,quillmarkbooks.example;penfoldpay.example;saltboxbooks.example;smallbizdesk.example
+R00072,2026-11-02,engine-a,P08,N07,transactional,0,United States,ok,1,Harrow Accounts,0,0,0,0,,Harrow Accounts,freelancehub.example;taxbasics.example
+R00073,2026-11-03,engine-a,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts;Corvid Cash,0,0,0,0,,Quillmark Books;Harrow Accounts,smallbizdesk.example;harrowaccounts.example
+R00074,2026-11-03,engine-a,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00075,2026-11-04,engine-a,P08,N07,transactional,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,startupnotes.example;shopkeeper.example;bookkeepingweekly.example
+R00076,2026-11-04,engine-a,P08,N07,transactional,0,United States,ok,1,Harrow Accounts,0,1,1,0,,Harrow Accounts,smallbizdesk.example;tidewaterledger.example;taxbasics.example;shopkeeper.example
+R00077,2026-11-05,engine-a,P08,N07,transactional,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,ledgerreview.example;quillmarkbooks.example;bookkeepingweekly.example
+R00078,2026-11-05,engine-a,P08,N07,transactional,0,United States,ok,1,Harrow Accounts;Tidewater Ledger;Quillmark Books;Penfold Pay,1,0,0,2,second_third,Harrow Accounts;Quillmark Books,shopkeeper.example;smallbizdesk.example;bookkeepingweekly.example;harrowaccounts.example
+R00079,2026-11-06,engine-a,P08,N07,transactional,0,United States,ok,1,Corvid Cash;Tidewater Ledger;Quillmark Books;Penfold Pay;Saltbox Books,1,0,0,2,second_third,Quillmark Books;Saltbox Books,startupnotes.example;corvidcash.example;smallbizdesk.example
+R00080,2026-11-06,engine-a,P08,N07,transactional,0,United States,ok,1,,0,0,0,0,,,shopkeeper.example;ledgerreview.example;smallbizdesk.example
+R00081,2026-11-02,engine-a,P09,N08,transactional,0,United States,ok,1,Corvid Cash;Saltbox Books;Harrow Accounts;Quillmark Books;Tidewater Ledger,1,0,0,5,fourth_later,Saltbox Books;Harrow Accounts;Quillmark Books,ledgerreview.example;saltboxbooks.example;harrowaccounts.example;freelancehub.example
+R00082,2026-11-02,engine-a,P09,N08,transactional,0,United States,ok,1,Tidewater Ledger;Harrow Accounts;Quillmark Books,1,0,0,1,first,Harrow Accounts;Quillmark Books,smallbizdesk.example;startupnotes.example
+R00083,2026-11-03,engine-a,P09,N08,transactional,0,United States,ok,1,Saltbox Books;Quillmark Books,0,0,0,0,,Saltbox Books;Quillmark Books,smallbizdesk.example
+R00084,2026-11-03,engine-a,P09,N08,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,bookkeepingweekly.example;shopkeeper.example;harrowaccounts.example;freelancehub.example
+R00085,2026-11-04,engine-a,P09,N08,transactional,0,United States,ok,1,Saltbox Books;Penfold Pay;Tidewater Ledger;Quillmark Books,1,1,0,3,second_third,Saltbox Books;Quillmark Books,bookkeepingweekly.example;tidewaterledger.example;penfoldpay.example;quillmarkbooks.example
+R00086,2026-11-04,engine-a,P09,N08,transactional,0,United States,ok,1,Corvid Cash;Tidewater Ledger,1,1,0,2,second_third,,tidewaterledger.example;startupnotes.example;corvidcash.example
+R00087,2026-11-05,engine-a,P09,N08,transactional,0,United States,ok,1,Saltbox Books,0,0,0,0,,Saltbox Books,saltboxbooks.example;ledgerreview.example;taxbasics.example
+R00088,2026-11-05,engine-a,P09,N08,transactional,0,United States,ok,1,Larkspur Tax;Harrow Accounts,0,0,0,0,,Harrow Accounts,smallbizdesk.example;shopkeeper.example;harrowaccounts.example
+R00089,2026-11-06,engine-a,P09,N08,transactional,0,United States,ok,1,Corvid Cash;Quillmark Books;Tidewater Ledger,1,1,0,3,second_third,Quillmark Books,taxbasics.example;freelancehub.example;smallbizdesk.example;tidewaterledger.example
+R00090,2026-11-06,engine-a,P09,N08,transactional,0,United States,ok,1,Tidewater Ledger,1,1,0,1,first,,freelancehub.example;startupnotes.example;tidewaterledger.example
+R00091,2026-11-02,engine-a,P10,N09,commercial,1,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,taxbasics.example;freelancehub.example
+R00092,2026-11-02,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Harrow Accounts;Quillmark Books,1,0,0,1,first,Harrow Accounts;Quillmark Books,freelancehub.example;shopkeeper.example;bookkeepingweekly.example
+R00093,2026-11-03,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Saltbox Books;Quillmark Books,1,0,0,1,first,Saltbox Books;Quillmark Books,shopkeeper.example;quillmarkbooks.example;saltboxbooks.example
+R00094,2026-11-03,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Harrow Accounts;Corvid Cash;Quillmark Books,1,1,0,1,first,Harrow Accounts;Quillmark Books,ledgerreview.example;tidewaterledger.example;smallbizdesk.example;bookkeepingweekly.example
+R00095,2026-11-04,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,startupnotes.example;smallbizdesk.example
+R00096,2026-11-04,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Corvid Cash,1,0,0,1,first,,
+R00097,2026-11-05,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Penfold Pay;Larkspur Tax;Corvid Cash,1,0,0,1,first,,
+R00098,2026-11-05,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books;Penfold Pay,1,0,0,1,first,Quillmark Books,smallbizdesk.example;shopkeeper.example;startupnotes.example
+R00099,2026-11-06,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books;Penfold Pay;Harrow Accounts;Saltbox Books,1,0,0,1,first,Quillmark Books;Harrow Accounts;Saltbox Books,freelancehub.example;harrowaccounts.example
+R00100,2026-11-06,engine-a,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books;Larkspur Tax,1,0,0,1,first,Quillmark Books,ledgerreview.example;quillmarkbooks.example
+R00101,2026-11-02,engine-b,P01,N01,informational,0,United States,ok,1,Harrow Accounts;Quillmark Books;Penfold Pay;Saltbox Books,0,0,0,0,,Harrow Accounts;Quillmark Books;Saltbox Books,
+R00102,2026-11-02,engine-b,P01,N01,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,quillmarkbooks.example;smallbizdesk.example
+R00103,2026-11-03,engine-b,P01,N01,informational,0,United States,ok,1,Larkspur Tax,0,0,0,0,,,smallbizdesk.example;ledgerreview.example
+R00104,2026-11-03,engine-b,P01,N01,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,
+R00105,2026-11-04,engine-b,P01,N01,informational,0,United States,ok,1,Quillmark Books;Penfold Pay,0,0,0,0,,Quillmark Books,freelancehub.example;quillmarkbooks.example;bookkeepingweekly.example
+R00106,2026-11-04,engine-b,P01,N01,informational,0,United States,ok,1,Penfold Pay;Larkspur Tax,0,0,0,0,,,shopkeeper.example;smallbizdesk.example;ledgerreview.example
+R00107,2026-11-05,engine-b,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,ledgerreview.example;freelancehub.example
+R00108,2026-11-05,engine-b,P01,N01,informational,0,United States,ok,1,Larkspur Tax;Corvid Cash;Penfold Pay,0,0,0,0,,,bookkeepingweekly.example;startupnotes.example
+R00109,2026-11-06,engine-b,P01,N01,informational,0,United States,ok,1,Saltbox Books,0,0,0,0,,Saltbox Books,
+R00110,2026-11-06,engine-b,P01,N01,informational,0,United States,ok,1,Penfold Pay;Harrow Accounts;Saltbox Books;Quillmark Books,0,0,0,0,,Harrow Accounts;Saltbox Books;Quillmark Books,
+R00111,2026-11-02,engine-b,P02,N02,informational,0,United States,ok,1,Corvid Cash;Larkspur Tax;Quillmark Books,0,0,0,0,,Quillmark Books,
+R00112,2026-11-02,engine-b,P02,N02,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,bookkeepingweekly.example
+R00113,2026-11-03,engine-b,P02,N02,informational,0,United States,ok,1,Saltbox Books;Harrow Accounts;Quillmark Books;Larkspur Tax,0,0,0,0,,Saltbox Books;Harrow Accounts;Quillmark Books,smallbizdesk.example;saltboxbooks.example
+R00114,2026-11-03,engine-b,P02,N02,informational,0,United States,ok,1,Quillmark Books;Larkspur Tax,0,0,0,0,,Quillmark Books,
+R00115,2026-11-04,engine-b,P02,N02,informational,0,United States,ok,1,Corvid Cash,0,1,1,0,,,tidewaterledger.example;shopkeeper.example
+R00116,2026-11-04,engine-b,P02,N02,informational,0,United States,refused,1,,0,0,0,0,,,
+R00117,2026-11-05,engine-b,P02,N02,informational,0,United States,ok,1,Larkspur Tax,0,0,0,0,,,
+R00118,2026-11-05,engine-b,P02,N02,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,
+R00119,2026-11-06,engine-b,P02,N02,informational,0,United States,ok,1,Corvid Cash;Saltbox Books,0,0,0,0,,Saltbox Books,
+R00120,2026-11-06,engine-b,P02,N02,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,
+R00121,2026-11-02,engine-b,P03,N03,informational,0,United States,ok,1,Quillmark Books;Corvid Cash,0,0,0,0,,Quillmark Books,taxbasics.example;quillmarkbooks.example
+R00122,2026-11-02,engine-b,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,ledgerreview.example;smallbizdesk.example;startupnotes.example
+R00123,2026-11-03,engine-b,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,
+R00124,2026-11-03,engine-b,P03,N03,informational,0,United States,error,0,,0,0,0,0,,,
+R00125,2026-11-04,engine-b,P03,N03,informational,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,
+R00126,2026-11-04,engine-b,P03,N03,informational,0,United States,ok,1,Corvid Cash;Penfold Pay,0,0,0,0,,,
+R00127,2026-11-05,engine-b,P03,N03,informational,0,United States,ok,1,Harrow Accounts,0,1,1,0,,Harrow Accounts,ledgerreview.example;tidewaterledger.example
+R00128,2026-11-05,engine-b,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,taxbasics.example;startupnotes.example
+R00129,2026-11-06,engine-b,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,taxbasics.example
+R00130,2026-11-06,engine-b,P03,N03,informational,0,United States,ok,1,Harrow Accounts,0,0,0,0,,Harrow Accounts,smallbizdesk.example;freelancehub.example;taxbasics.example
+R00131,2026-11-02,engine-b,P04,N04,commercial,0,United States,ok,1,Corvid Cash;Quillmark Books;Saltbox Books;Larkspur Tax,0,0,0,0,,Quillmark Books;Saltbox Books,freelancehub.example;bookkeepingweekly.example;taxbasics.example
+R00132,2026-11-02,engine-b,P04,N04,commercial,0,United States,ok,1,Tidewater Ledger;Quillmark Books;Larkspur Tax,1,0,0,1,first,Quillmark Books,
+R00133,2026-11-03,engine-b,P04,N04,commercial,0,United States,ok,1,Corvid Cash;Quillmark Books,0,0,0,0,,Quillmark Books,
+R00134,2026-11-03,engine-b,P04,N04,commercial,0,United States,ok,1,Larkspur Tax;Harrow Accounts;Quillmark Books;Saltbox Books,0,0,0,0,,Harrow Accounts;Quillmark Books;Saltbox Books,startupnotes.example;saltboxbooks.example;shopkeeper.example;freelancehub.example
+R00135,2026-11-04,engine-b,P04,N04,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,1,1,0,,Quillmark Books;Harrow Accounts,smallbizdesk.example;startupnotes.example;tidewaterledger.example
+R00136,2026-11-04,engine-b,P04,N04,commercial,0,United States,ok,1,Quillmark Books;Saltbox Books;Larkspur Tax,0,0,0,0,,Quillmark Books;Saltbox Books,shopkeeper.example;quillmarkbooks.example
+R00137,2026-11-05,engine-b,P04,N04,commercial,0,United States,ok,1,Saltbox Books;Penfold Pay;Harrow Accounts,0,1,1,0,,Saltbox Books;Harrow Accounts,taxbasics.example;smallbizdesk.example;tidewaterledger.example;shopkeeper.example
+R00138,2026-11-05,engine-b,P04,N04,commercial,0,United States,ok,1,Tidewater Ledger;Saltbox Books;Harrow Accounts;Larkspur Tax,1,0,0,1,first,Saltbox Books;Harrow Accounts,
+R00139,2026-11-06,engine-b,P04,N04,commercial,0,United States,ok,1,Tidewater Ledger;Harrow Accounts,1,0,0,1,first,Harrow Accounts,freelancehub.example;startupnotes.example
+R00140,2026-11-06,engine-b,P04,N04,commercial,0,United States,ok,1,Saltbox Books;Penfold Pay,0,0,0,0,,Saltbox Books,smallbizdesk.example;saltboxbooks.example
+R00141,2026-11-02,engine-b,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Quillmark Books,0,0,0,0,,Saltbox Books;Quillmark Books,freelancehub.example;quillmarkbooks.example;shopkeeper.example
+R00142,2026-11-02,engine-b,P05,N04,commercial,0,United States,ok,1,Larkspur Tax;Saltbox Books,0,0,0,0,,Saltbox Books,
+R00143,2026-11-03,engine-b,P05,N04,commercial,0,United States,ok,1,Quillmark Books;Tidewater Ledger;Corvid Cash,1,0,0,2,second_third,Quillmark Books,
+R00144,2026-11-03,engine-b,P05,N04,commercial,0,United States,ok,1,Harrow Accounts;Saltbox Books,0,1,1,0,,Harrow Accounts;Saltbox Books,tidewaterledger.example;taxbasics.example;saltboxbooks.example;smallbizdesk.example;freelancehub.example
+R00145,2026-11-04,engine-b,P05,N04,commercial,0,United States,ok,1,Penfold Pay;Harrow Accounts;Quillmark Books,0,0,0,0,,Harrow Accounts;Quillmark Books,quillmarkbooks.example;startupnotes.example;freelancehub.example
+R00146,2026-11-04,engine-b,P05,N04,commercial,0,United States,ok,1,Harrow Accounts;Quillmark Books,0,0,0,0,,Harrow Accounts;Quillmark Books,ledgerreview.example;taxbasics.example;bookkeepingweekly.example
+R00147,2026-11-05,engine-b,P05,N04,commercial,0,United States,ok,1,Harrow Accounts;Quillmark Books;Saltbox Books;Tidewater Ledger;Larkspur Tax,1,0,0,4,fourth_later,Harrow Accounts;Quillmark Books;Saltbox Books,harrowaccounts.example;startupnotes.example;taxbasics.example;shopkeeper.example;saltboxbooks.example
+R00148,2026-11-05,engine-b,P05,N04,commercial,0,United States,ok,1,Harrow Accounts;Quillmark Books;Tidewater Ledger,1,0,0,3,second_third,Harrow Accounts;Quillmark Books,quillmarkbooks.example;ledgerreview.example;freelancehub.example
+R00149,2026-11-06,engine-b,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Quillmark Books;Penfold Pay;Harrow Accounts,0,1,1,0,,Saltbox Books;Quillmark Books;Harrow Accounts,smallbizdesk.example;tidewaterledger.example;bookkeepingweekly.example
+R00150,2026-11-06,engine-b,P05,N04,commercial,0,United States,ok,1,Penfold Pay;Larkspur Tax,0,1,1,0,,,tidewaterledger.example;freelancehub.example
+R00151,2026-11-02,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Saltbox Books;Tidewater Ledger;Harrow Accounts,1,0,0,3,second_third,Quillmark Books;Saltbox Books;Harrow Accounts,startupnotes.example;ledgerreview.example
+R00152,2026-11-02,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Penfold Pay,0,0,0,0,,Quillmark Books,
+R00153,2026-11-03,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,bookkeepingweekly.example;shopkeeper.example
+R00154,2026-11-03,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,bookkeepingweekly.example;startupnotes.example;ledgerreview.example
+R00155,2026-11-04,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00156,2026-11-04,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Corvid Cash;Saltbox Books,0,0,0,0,,Quillmark Books;Saltbox Books,corvidcash.example;bookkeepingweekly.example
+R00157,2026-11-05,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Saltbox Books;Penfold Pay,0,0,0,0,,Quillmark Books;Saltbox Books,freelancehub.example
+R00158,2026-11-05,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Saltbox Books,0,1,1,0,,Quillmark Books;Saltbox Books,tidewaterledger.example;shopkeeper.example;bookkeepingweekly.example
+R00159,2026-11-06,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Tidewater Ledger,1,1,0,3,second_third,Quillmark Books;Harrow Accounts,startupnotes.example;freelancehub.example;harrowaccounts.example;taxbasics.example;tidewaterledger.example
+R00160,2026-11-06,engine-b,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Larkspur Tax;Saltbox Books,0,0,0,0,,Quillmark Books;Saltbox Books,
+R00161,2026-11-02,engine-b,P07,N06,transactional,0,United States,ok,1,Harrow Accounts;Penfold Pay,0,0,0,0,,Harrow Accounts,harrowaccounts.example;startupnotes.example;bookkeepingweekly.example;taxbasics.example
+R00162,2026-11-02,engine-b,P07,N06,transactional,0,United States,ok,1,Harrow Accounts;Quillmark Books,0,0,0,0,,Harrow Accounts;Quillmark Books,taxbasics.example;freelancehub.example;shopkeeper.example
+R00163,2026-11-03,engine-b,P07,N06,transactional,0,United States,ok,1,Corvid Cash;Harrow Accounts,0,0,0,0,,Harrow Accounts,
+R00164,2026-11-03,engine-b,P07,N06,transactional,0,United States,ok,1,Corvid Cash,0,0,0,0,,,
+R00165,2026-11-04,engine-b,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,shopkeeper.example;bookkeepingweekly.example
+R00166,2026-11-04,engine-b,P07,N06,transactional,0,United States,ok,1,Harrow Accounts;Corvid Cash;Quillmark Books,0,1,1,0,,Harrow Accounts;Quillmark Books,freelancehub.example;tidewaterledger.example;startupnotes.example;quillmarkbooks.example;shopkeeper.example
+R00167,2026-11-05,engine-b,P07,N06,transactional,0,United States,ok,1,Penfold Pay,0,0,0,0,,,
+R00168,2026-11-05,engine-b,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Penfold Pay;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00169,2026-11-06,engine-b,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts;Larkspur Tax;Saltbox Books,0,0,0,0,,Quillmark Books;Harrow Accounts;Saltbox Books,bookkeepingweekly.example
+R00170,2026-11-06,engine-b,P07,N06,transactional,0,United States,ok,1,Saltbox Books,0,0,0,0,,Saltbox Books,bookkeepingweekly.example;ledgerreview.example
+R00171,2026-11-02,engine-b,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Penfold Pay;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,
+R00172,2026-11-02,engine-b,P08,N07,transactional,0,United States,ok,1,Penfold Pay;Quillmark Books,0,0,0,0,,Quillmark Books,
+R00173,2026-11-03,engine-b,P08,N07,transactional,0,United States,ok,1,Corvid Cash;Quillmark Books;Saltbox Books,0,0,0,0,,Quillmark Books;Saltbox Books,
+R00174,2026-11-03,engine-b,P08,N07,transactional,0,United States,ok,1,Saltbox Books;Harrow Accounts,0,0,0,0,,Saltbox Books;Harrow Accounts,
+R00175,2026-11-04,engine-b,P08,N07,transactional,0,United States,ok,1,Saltbox Books;Tidewater Ledger;Harrow Accounts;Quillmark Books,1,0,0,2,second_third,Saltbox Books;Harrow Accounts;Quillmark Books,freelancehub.example;startupnotes.example;harrowaccounts.example;quillmarkbooks.example
+R00176,2026-11-04,engine-b,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Larkspur Tax,0,0,0,0,,Quillmark Books,
+R00177,2026-11-05,engine-b,P08,N07,transactional,0,United States,error,0,,0,0,0,0,,,
+R00178,2026-11-05,engine-b,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Penfold Pay,0,0,0,0,,Quillmark Books,bookkeepingweekly.example
+R00179,2026-11-06,engine-b,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Corvid Cash;Saltbox Books;Penfold Pay;Harrow Accounts,0,0,0,0,,Quillmark Books;Saltbox Books;Harrow Accounts,
+R00180,2026-11-06,engine-b,P08,N07,transactional,0,United States,ok,1,Tidewater Ledger;Quillmark Books,1,1,0,1,first,Quillmark Books,tidewaterledger.example;ledgerreview.example
+R00181,2026-11-02,engine-b,P09,N08,transactional,0,United States,ok,1,Larkspur Tax;Harrow Accounts;Tidewater Ledger,1,0,0,3,second_third,Harrow Accounts,startupnotes.example;harrowaccounts.example
+R00182,2026-11-02,engine-b,P09,N08,transactional,0,United States,ok,1,Harrow Accounts;Corvid Cash,0,0,0,0,,Harrow Accounts,smallbizdesk.example
+R00183,2026-11-03,engine-b,P09,N08,transactional,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,shopkeeper.example
+R00184,2026-11-03,engine-b,P09,N08,transactional,0,United States,ok,1,Corvid Cash;Quillmark Books;Larkspur Tax;Harrow Accounts,0,1,1,0,,Quillmark Books;Harrow Accounts,tidewaterledger.example;ledgerreview.example;larkspurtax.example
+R00185,2026-11-04,engine-b,P09,N08,transactional,0,United States,ok,1,Saltbox Books;Larkspur Tax,0,0,0,0,,Saltbox Books,
+R00186,2026-11-04,engine-b,P09,N08,transactional,0,United States,ok,1,Penfold Pay;Harrow Accounts;Quillmark Books;Corvid Cash,0,0,0,0,,Harrow Accounts;Quillmark Books,
+R00187,2026-11-05,engine-b,P09,N08,transactional,0,United States,ok,1,Harrow Accounts;Larkspur Tax;Tidewater Ledger,1,0,0,3,second_third,Harrow Accounts,smallbizdesk.example
+R00188,2026-11-05,engine-b,P09,N08,transactional,0,United States,ok,1,Quillmark Books;Tidewater Ledger,1,0,0,2,second_third,Quillmark Books,shopkeeper.example;startupnotes.example
+R00189,2026-11-06,engine-b,P09,N08,transactional,0,United States,ok,1,Penfold Pay;Harrow Accounts,0,0,0,0,,Harrow Accounts,freelancehub.example;smallbizdesk.example;shopkeeper.example
+R00190,2026-11-06,engine-b,P09,N08,transactional,0,United States,ok,1,Penfold Pay;Corvid Cash;Tidewater Ledger;Quillmark Books,1,0,0,3,second_third,Quillmark Books,
+R00191,2026-11-02,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books;Harrow Accounts,1,0,0,1,first,Quillmark Books;Harrow Accounts,shopkeeper.example;taxbasics.example
+R00192,2026-11-02,engine-b,P10,N09,commercial,1,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,ledgerreview.example
+R00193,2026-11-03,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books;Saltbox Books;Corvid Cash,1,0,0,1,first,Quillmark Books;Saltbox Books,
+R00194,2026-11-03,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,ledgerreview.example
+R00195,2026-11-04,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Corvid Cash;Quillmark Books;Saltbox Books;Penfold Pay,1,0,0,1,first,Quillmark Books;Saltbox Books,
+R00196,2026-11-04,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger,1,0,0,1,first,,
+R00197,2026-11-05,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Saltbox Books;Harrow Accounts,1,0,0,1,first,Saltbox Books;Harrow Accounts,
+R00198,2026-11-05,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books;Harrow Accounts,1,0,0,1,first,Quillmark Books;Harrow Accounts,smallbizdesk.example;freelancehub.example;quillmarkbooks.example
+R00199,2026-11-06,engine-b,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Harrow Accounts;Quillmark Books;Saltbox Books,1,0,0,1,first,Harrow Accounts;Quillmark Books;Saltbox Books,
+R00200,2026-11-06,engine-b,P10,N09,commercial,1,United States,ok,1,Saltbox Books;Quillmark Books;Corvid Cash,0,0,0,0,,Saltbox Books;Quillmark Books,
+R00201,2026-11-02,engine-c,P01,N01,informational,0,United States,ok,1,Quillmark Books;Larkspur Tax;Tidewater Ledger;Corvid Cash,1,0,0,3,second_third,Quillmark Books,startupnotes.example;smallbizdesk.example;ledgerreview.example
+R00202,2026-11-02,engine-c,P01,N01,informational,0,United States,ok,1,Tidewater Ledger,1,0,0,1,first,,shopkeeper.example;smallbizdesk.example
+R00203,2026-11-03,engine-c,P01,N01,informational,0,United States,ok,1,Harrow Accounts;Quillmark Books,0,0,0,0,,Harrow Accounts;Quillmark Books,bookkeepingweekly.example;quillmarkbooks.example;taxbasics.example;freelancehub.example
+R00204,2026-11-03,engine-c,P01,N01,informational,0,United States,ok,1,Harrow Accounts;Tidewater Ledger,1,1,0,2,second_third,Harrow Accounts,ledgerreview.example;harrowaccounts.example;smallbizdesk.example;tidewaterledger.example;taxbasics.example
+R00205,2026-11-04,engine-c,P01,N01,informational,0,United States,ok,1,Quillmark Books;Corvid Cash;Penfold Pay;Tidewater Ledger,1,0,0,4,fourth_later,Quillmark Books,startupnotes.example;ledgerreview.example;smallbizdesk.example
+R00206,2026-11-04,engine-c,P01,N01,informational,0,United States,ok,1,Corvid Cash,0,0,0,0,,,ledgerreview.example;shopkeeper.example;freelancehub.example
+R00207,2026-11-05,engine-c,P01,N01,informational,0,United States,ok,1,Tidewater Ledger;Quillmark Books;Saltbox Books,1,0,0,1,first,Quillmark Books;Saltbox Books,startupnotes.example;bookkeepingweekly.example;saltboxbooks.example
+R00208,2026-11-05,engine-c,P01,N01,informational,0,United States,ok,1,Corvid Cash;Larkspur Tax;Saltbox Books;Quillmark Books;Penfold Pay,0,1,1,0,,Saltbox Books;Quillmark Books,freelancehub.example;bookkeepingweekly.example;saltboxbooks.example;tidewaterledger.example
+R00209,2026-11-06,engine-c,P01,N01,informational,0,United States,empty,0,,0,0,0,0,,,
+R00210,2026-11-06,engine-c,P01,N01,informational,0,United States,ok,1,,0,0,0,0,,,shopkeeper.example;smallbizdesk.example
+R00211,2026-11-02,engine-c,P02,N02,informational,0,United States,ok,1,Larkspur Tax;Quillmark Books,0,1,1,0,,Quillmark Books,taxbasics.example;tidewaterledger.example
+R00212,2026-11-02,engine-c,P02,N02,informational,0,United States,ok,1,Tidewater Ledger;Harrow Accounts;Corvid Cash,1,1,0,1,first,Harrow Accounts,tidewaterledger.example;harrowaccounts.example;smallbizdesk.example;taxbasics.example;corvidcash.example
+R00213,2026-11-03,engine-c,P02,N02,informational,0,United States,ok,1,Larkspur Tax;Harrow Accounts,0,0,0,0,,Harrow Accounts,freelancehub.example;ledgerreview.example;smallbizdesk.example;harrowaccounts.example
+R00214,2026-11-03,engine-c,P02,N02,informational,0,United States,ok,1,Harrow Accounts;Larkspur Tax,0,0,0,0,,Harrow Accounts,shopkeeper.example;harrowaccounts.example;freelancehub.example
+R00215,2026-11-04,engine-c,P02,N02,informational,0,United States,ok,1,Harrow Accounts;Corvid Cash;Larkspur Tax,0,0,0,0,,Harrow Accounts,smallbizdesk.example;freelancehub.example;ledgerreview.example;harrowaccounts.example
+R00216,2026-11-04,engine-c,P02,N02,informational,0,United States,ok,1,Quillmark Books,0,1,1,0,,Quillmark Books,freelancehub.example;tidewaterledger.example;quillmarkbooks.example
+R00217,2026-11-05,engine-c,P02,N02,informational,0,United States,ok,1,Larkspur Tax,0,0,0,0,,,larkspurtax.example;shopkeeper.example
+R00218,2026-11-05,engine-c,P02,N02,informational,0,United States,ok,1,Tidewater Ledger;Quillmark Books;Penfold Pay,1,1,0,1,first,Quillmark Books,startupnotes.example;tidewaterledger.example;shopkeeper.example;ledgerreview.example
+R00219,2026-11-06,engine-c,P02,N02,informational,0,United States,ok,1,,0,0,0,0,,,bookkeepingweekly.example
+R00220,2026-11-06,engine-c,P02,N02,informational,0,United States,ok,1,Corvid Cash;Tidewater Ledger;Harrow Accounts;Penfold Pay,1,1,0,2,second_third,Harrow Accounts,penfoldpay.example;tidewaterledger.example;startupnotes.example;freelancehub.example;shopkeeper.example
+R00221,2026-11-02,engine-c,P03,N03,informational,0,United States,ok,1,,0,1,1,0,,,startupnotes.example;tidewaterledger.example
+R00222,2026-11-02,engine-c,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,smallbizdesk.example;taxbasics.example;bookkeepingweekly.example
+R00223,2026-11-03,engine-c,P03,N03,informational,0,United States,ok,1,Saltbox Books;Penfold Pay;Harrow Accounts,0,0,0,0,,Saltbox Books;Harrow Accounts,smallbizdesk.example;freelancehub.example
+R00224,2026-11-03,engine-c,P03,N03,informational,0,United States,ok,1,Quillmark Books,0,1,1,0,,Quillmark Books,taxbasics.example;quillmarkbooks.example;tidewaterledger.example;shopkeeper.example
+R00225,2026-11-04,engine-c,P03,N03,informational,0,United States,ok,1,,0,0,0,0,,,bookkeepingweekly.example
+R00226,2026-11-04,engine-c,P03,N03,informational,0,United States,ok,1,Harrow Accounts;Corvid Cash,0,0,0,0,,Harrow Accounts,bookkeepingweekly.example;taxbasics.example
+R00227,2026-11-05,engine-c,P03,N03,informational,0,United States,ok,1,Corvid Cash,0,1,1,0,,,tidewaterledger.example;taxbasics.example;freelancehub.example;startupnotes.example
+R00228,2026-11-05,engine-c,P03,N03,informational,0,United States,ok,1,Harrow Accounts,0,0,0,0,,Harrow Accounts,startupnotes.example;freelancehub.example
+R00229,2026-11-06,engine-c,P03,N03,informational,0,United States,ok,1,Tidewater Ledger,1,1,0,1,first,,bookkeepingweekly.example;tidewaterledger.example
+R00230,2026-11-06,engine-c,P03,N03,informational,0,United States,ok,1,Quillmark Books;Corvid Cash,0,0,0,0,,Quillmark Books,ledgerreview.example;freelancehub.example
+R00231,2026-11-02,engine-c,P04,N04,commercial,0,United States,ok,1,Quillmark Books;Penfold Pay;Corvid Cash,0,1,1,0,,Quillmark Books,freelancehub.example;bookkeepingweekly.example;tidewaterledger.example;quillmarkbooks.example
+R00232,2026-11-02,engine-c,P04,N04,commercial,0,United States,ok,1,Harrow Accounts;Larkspur Tax,0,0,0,0,,Harrow Accounts,taxbasics.example;startupnotes.example
+R00233,2026-11-03,engine-c,P04,N04,commercial,0,United States,ok,1,Quillmark Books,0,0,0,0,,Quillmark Books,
+R00234,2026-11-03,engine-c,P04,N04,commercial,0,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,
+R00235,2026-11-04,engine-c,P04,N04,commercial,0,United States,ok,1,Larkspur Tax;Corvid Cash;Tidewater Ledger;Harrow Accounts,1,1,0,3,second_third,Harrow Accounts,harrowaccounts.example;taxbasics.example;freelancehub.example;tidewaterledger.example;ledgerreview.example
+R00236,2026-11-04,engine-c,P04,N04,commercial,0,United States,ok,1,Corvid Cash;Larkspur Tax;Tidewater Ledger,1,0,0,3,second_third,,taxbasics.example;shopkeeper.example
+R00237,2026-11-05,engine-c,P04,N04,commercial,0,United States,ok,1,,0,0,0,0,,,bookkeepingweekly.example
+R00238,2026-11-05,engine-c,P04,N04,commercial,0,United States,ok,1,Saltbox Books;Quillmark Books;Tidewater Ledger,1,1,0,3,second_third,Saltbox Books;Quillmark Books,ledgerreview.example;shopkeeper.example;tidewaterledger.example
+R00239,2026-11-06,engine-c,P04,N04,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Tidewater Ledger;Larkspur Tax;Corvid Cash,1,1,0,3,second_third,Quillmark Books;Harrow Accounts,tidewaterledger.example;quillmarkbooks.example;taxbasics.example;ledgerreview.example
+R00240,2026-11-06,engine-c,P04,N04,commercial,0,United States,ok,1,Corvid Cash;Larkspur Tax;Tidewater Ledger;Quillmark Books,1,0,0,3,second_third,Quillmark Books,freelancehub.example;bookkeepingweekly.example;startupnotes.example
+R00241,2026-11-02,engine-c,P05,N04,commercial,0,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,taxbasics.example
+R00242,2026-11-02,engine-c,P05,N04,commercial,0,United States,ok,1,Tidewater Ledger;Quillmark Books;Larkspur Tax,1,0,0,1,first,Quillmark Books,freelancehub.example;shopkeeper.example
+R00243,2026-11-03,engine-c,P05,N04,commercial,0,United States,ok,1,Penfold Pay;Quillmark Books;Tidewater Ledger;Harrow Accounts,1,0,0,3,second_third,Quillmark Books;Harrow Accounts,quillmarkbooks.example;shopkeeper.example;smallbizdesk.example
+R00244,2026-11-03,engine-c,P05,N04,commercial,0,United States,ok,1,Quillmark Books;Tidewater Ledger;Larkspur Tax,1,1,0,2,second_third,Quillmark Books,freelancehub.example;tidewaterledger.example
+R00245,2026-11-04,engine-c,P05,N04,commercial,0,United States,ok,1,Larkspur Tax;Quillmark Books;Tidewater Ledger,1,1,0,3,second_third,Quillmark Books,quillmarkbooks.example;tidewaterledger.example;shopkeeper.example
+R00246,2026-11-04,engine-c,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Tidewater Ledger;Larkspur Tax,1,0,0,2,second_third,Saltbox Books,smallbizdesk.example
+R00247,2026-11-05,engine-c,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Larkspur Tax;Tidewater Ledger;Corvid Cash;Penfold Pay;Quillmark Books,1,0,0,3,second_third,Saltbox Books;Quillmark Books,larkspurtax.example;corvidcash.example;ledgerreview.example
+R00248,2026-11-05,engine-c,P05,N04,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts,0,0,0,0,,Quillmark Books;Harrow Accounts,shopkeeper.example
+R00249,2026-11-06,engine-c,P05,N04,commercial,0,United States,ok,1,Harrow Accounts;Saltbox Books,0,1,1,0,,Harrow Accounts;Saltbox Books,tidewaterledger.example;smallbizdesk.example;bookkeepingweekly.example;freelancehub.example;harrowaccounts.example
+R00250,2026-11-06,engine-c,P05,N04,commercial,0,United States,ok,1,Saltbox Books;Quillmark Books;Tidewater Ledger,1,1,0,3,second_third,Saltbox Books;Quillmark Books,tidewaterledger.example;saltboxbooks.example;shopkeeper.example;freelancehub.example
+R00251,2026-11-02,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Larkspur Tax,0,0,0,0,,Quillmark Books,shopkeeper.example
+R00252,2026-11-02,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Tidewater Ledger,1,0,0,2,second_third,Quillmark Books,ledgerreview.example;smallbizdesk.example;taxbasics.example
+R00253,2026-11-03,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Corvid Cash;Larkspur Tax,0,0,0,0,,Quillmark Books,startupnotes.example
+R00254,2026-11-03,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Tidewater Ledger,1,1,0,2,second_third,Quillmark Books,shopkeeper.example;tidewaterledger.example;smallbizdesk.example;startupnotes.example
+R00255,2026-11-04,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Tidewater Ledger,1,0,0,3,second_third,Quillmark Books;Harrow Accounts,taxbasics.example
+R00256,2026-11-04,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Larkspur Tax;Harrow Accounts;Tidewater Ledger;Corvid Cash,1,1,0,4,fourth_later,Quillmark Books;Harrow Accounts,startupnotes.example;bookkeepingweekly.example;tidewaterledger.example;smallbizdesk.example
+R00257,2026-11-05,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Saltbox Books;Larkspur Tax,0,0,0,0,,Quillmark Books;Harrow Accounts;Saltbox Books,harrowaccounts.example;bookkeepingweekly.example;shopkeeper.example
+R00258,2026-11-05,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Tidewater Ledger;Harrow Accounts,1,1,0,2,second_third,Quillmark Books;Harrow Accounts,bookkeepingweekly.example;shopkeeper.example;tidewaterledger.example
+R00259,2026-11-06,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Tidewater Ledger,1,0,0,3,second_third,Quillmark Books;Harrow Accounts,taxbasics.example;shopkeeper.example
+R00260,2026-11-06,engine-c,P06,N05,commercial,0,United States,ok,1,Quillmark Books;Harrow Accounts;Penfold Pay,0,0,0,0,,Quillmark Books;Harrow Accounts,startupnotes.example;bookkeepingweekly.example;freelancehub.example
+R00261,2026-11-02,engine-c,P07,N06,transactional,0,United States,ok,1,Saltbox Books;Harrow Accounts;Larkspur Tax;Corvid Cash;Tidewater Ledger,1,1,0,5,fourth_later,Saltbox Books;Harrow Accounts,bookkeepingweekly.example;tidewaterledger.example;saltboxbooks.example
+R00262,2026-11-02,engine-c,P07,N06,transactional,0,United States,ok,1,Corvid Cash;Tidewater Ledger;Penfold Pay,1,1,0,2,second_third,,startupnotes.example;penfoldpay.example;tidewaterledger.example;freelancehub.example
+R00263,2026-11-03,engine-c,P07,N06,transactional,0,United States,ok,1,Larkspur Tax;Penfold Pay;Quillmark Books,0,1,1,0,,Quillmark Books,tidewaterledger.example;taxbasics.example;penfoldpay.example
+R00264,2026-11-03,engine-c,P07,N06,transactional,0,United States,ok,1,Tidewater Ledger,1,0,0,1,first,,startupnotes.example;freelancehub.example
+R00265,2026-11-04,engine-c,P07,N06,transactional,0,United States,ok,1,Harrow Accounts;Tidewater Ledger,1,1,0,2,second_third,Harrow Accounts,smallbizdesk.example;taxbasics.example;tidewaterledger.example
+R00266,2026-11-04,engine-c,P07,N06,transactional,0,United States,ok,1,Penfold Pay;Harrow Accounts;Corvid Cash;Saltbox Books;Tidewater Ledger;Quillmark Books,1,0,0,5,fourth_later,Harrow Accounts;Saltbox Books;Quillmark Books,smallbizdesk.example
+R00267,2026-11-05,engine-c,P07,N06,transactional,0,United States,ok,1,Harrow Accounts;Tidewater Ledger,1,0,0,2,second_third,Harrow Accounts,bookkeepingweekly.example;freelancehub.example;taxbasics.example
+R00268,2026-11-05,engine-c,P07,N06,transactional,0,United States,ok,1,Quillmark Books;Tidewater Ledger;Saltbox Books,1,0,0,2,second_third,Quillmark Books;Saltbox Books,
+R00269,2026-11-06,engine-c,P07,N06,transactional,0,United States,ok,1,Harrow Accounts;Tidewater Ledger,1,0,0,2,second_third,Harrow Accounts,taxbasics.example;shopkeeper.example;smallbizdesk.example
+R00270,2026-11-06,engine-c,P07,N06,transactional,0,United States,ok,1,Tidewater Ledger;Harrow Accounts;Quillmark Books,1,1,0,1,first,Harrow Accounts;Quillmark Books,harrowaccounts.example;tidewaterledger.example;startupnotes.example
+R00271,2026-11-02,engine-c,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts;Tidewater Ledger;Larkspur Tax,1,1,0,3,second_third,Quillmark Books;Harrow Accounts,startupnotes.example;smallbizdesk.example;taxbasics.example;tidewaterledger.example
+R00272,2026-11-02,engine-c,P08,N07,transactional,0,United States,ok,1,Tidewater Ledger;Larkspur Tax;Quillmark Books,1,0,0,1,first,Quillmark Books,freelancehub.example
+R00273,2026-11-03,engine-c,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Tidewater Ledger;Harrow Accounts;Larkspur Tax,1,0,0,2,second_third,Quillmark Books;Harrow Accounts,taxbasics.example;freelancehub.example;harrowaccounts.example;quillmarkbooks.example
+R00274,2026-11-03,engine-c,P08,N07,transactional,0,United States,ok,1,Harrow Accounts;Quillmark Books;Larkspur Tax,0,1,1,0,,Harrow Accounts;Quillmark Books,tidewaterledger.example;ledgerreview.example;shopkeeper.example;bookkeepingweekly.example;larkspurtax.example
+R00275,2026-11-04,engine-c,P08,N07,transactional,0,United States,ok,1,Quillmark Books;Larkspur Tax;Saltbox Books,0,0,0,0,,Quillmark Books;Saltbox Books,smallbizdesk.example;taxbasics.example;saltboxbooks.example;bookkeepingweekly.example
+R00276,2026-11-04,engine-c,P08,N07,transactional,0,United States,ok,1,Tidewater Ledger;Saltbox Books;Quillmark Books;Harrow Accounts,1,0,0,1,first,Saltbox Books;Quillmark Books;Harrow Accounts,freelancehub.example;startupnotes.example;smallbizdesk.example;quillmarkbooks.example
+R00277,2026-11-05,engine-c,P08,N07,transactional,0,United States,ok,1,Tidewater Ledger;Quillmark Books;Larkspur Tax,1,1,0,1,first,Quillmark Books,tidewaterledger.example;bookkeepingweekly.example
+R00278,2026-11-05,engine-c,P08,N07,transactional,0,United States,ok,1,Tidewater Ledger;Quillmark Books,1,1,0,1,first,Quillmark Books,startupnotes.example;tidewaterledger.example;smallbizdesk.example;freelancehub.example
+R00279,2026-11-06,engine-c,P08,N07,transactional,0,United States,ok,1,Larkspur Tax;Harrow Accounts;Tidewater Ledger,1,1,0,3,second_third,Harrow Accounts,larkspurtax.example;tidewaterledger.example;startupnotes.example;harrowaccounts.example
+R00280,2026-11-06,engine-c,P08,N07,transactional,0,United States,ok,1,Harrow Accounts;Quillmark Books;Penfold Pay,0,1,1,0,,Harrow Accounts;Quillmark Books,shopkeeper.example;tidewaterledger.example;bookkeepingweekly.example
+R00281,2026-11-02,engine-c,P09,N08,transactional,0,United States,ok,1,Saltbox Books;Harrow Accounts;Tidewater Ledger;Quillmark Books,1,0,0,3,second_third,Saltbox Books;Harrow Accounts;Quillmark Books,saltboxbooks.example;quillmarkbooks.example;startupnotes.example;ledgerreview.example;freelancehub.example
+R00282,2026-11-02,engine-c,P09,N08,transactional,0,United States,ok,1,Quillmark Books;Larkspur Tax;Harrow Accounts;Corvid Cash;Tidewater Ledger,1,0,0,5,fourth_later,Quillmark Books;Harrow Accounts,taxbasics.example;corvidcash.example;freelancehub.example;quillmarkbooks.example;smallbizdesk.example
+R00283,2026-11-03,engine-c,P09,N08,transactional,0,United States,ok,1,Larkspur Tax;Penfold Pay;Corvid Cash,0,0,0,0,,,penfoldpay.example;ledgerreview.example;bookkeepingweekly.example;startupnotes.example
+R00284,2026-11-03,engine-c,P09,N08,transactional,0,United States,ok,1,Larkspur Tax;Penfold Pay;Corvid Cash;Harrow Accounts;Tidewater Ledger,1,0,0,5,fourth_later,Harrow Accounts,harrowaccounts.example;corvidcash.example;freelancehub.example;shopkeeper.example
+R00285,2026-11-04,engine-c,P09,N08,transactional,0,United States,ok,1,Tidewater Ledger;Larkspur Tax,1,0,0,1,first,,taxbasics.example
+R00286,2026-11-04,engine-c,P09,N08,transactional,0,United States,ok,1,Quillmark Books;Harrow Accounts;Saltbox Books;Tidewater Ledger,1,1,0,4,fourth_later,Quillmark Books;Harrow Accounts;Saltbox Books,tidewaterledger.example;harrowaccounts.example;saltboxbooks.example;taxbasics.example
+R00287,2026-11-05,engine-c,P09,N08,transactional,0,United States,ok,1,Tidewater Ledger;Quillmark Books;Larkspur Tax,1,1,0,1,first,Quillmark Books,shopkeeper.example;quillmarkbooks.example;tidewaterledger.example
+R00288,2026-11-05,engine-c,P09,N08,transactional,0,United States,ok,1,Saltbox Books;Harrow Accounts,0,0,0,0,,Saltbox Books;Harrow Accounts,startupnotes.example
+R00289,2026-11-06,engine-c,P09,N08,transactional,0,United States,ok,1,Corvid Cash;Tidewater Ledger,1,1,0,2,second_third,,ledgerreview.example;smallbizdesk.example;taxbasics.example;tidewaterledger.example
+R00290,2026-11-06,engine-c,P09,N08,transactional,0,United States,ok,1,Harrow Accounts;Penfold Pay;Quillmark Books;Saltbox Books,0,0,0,0,,Harrow Accounts;Quillmark Books;Saltbox Books,
+R00291,2026-11-02,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Harrow Accounts;Quillmark Books,1,1,0,1,first,Harrow Accounts;Quillmark Books,smallbizdesk.example;shopkeeper.example;harrowaccounts.example;ledgerreview.example;tidewaterledger.example
+R00292,2026-11-02,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Corvid Cash;Quillmark Books,1,0,0,1,first,Quillmark Books,smallbizdesk.example
+R00293,2026-11-03,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Larkspur Tax;Harrow Accounts;Corvid Cash,1,1,0,1,first,Harrow Accounts,tidewaterledger.example;ledgerreview.example;shopkeeper.example
+R00294,2026-11-03,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books,1,0,0,1,first,Quillmark Books,
+R00295,2026-11-04,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Larkspur Tax;Quillmark Books,1,1,0,1,first,Quillmark Books,bookkeepingweekly.example;ledgerreview.example;tidewaterledger.example
+R00296,2026-11-04,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Saltbox Books;Quillmark Books,1,1,0,1,first,Saltbox Books;Quillmark Books,smallbizdesk.example;shopkeeper.example;bookkeepingweekly.example;tidewaterledger.example
+R00297,2026-11-05,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Corvid Cash;Saltbox Books;Quillmark Books,1,1,0,1,first,Saltbox Books;Quillmark Books,tidewaterledger.example;taxbasics.example
+R00298,2026-11-05,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Quillmark Books,1,1,0,1,first,Quillmark Books,bookkeepingweekly.example;tidewaterledger.example;freelancehub.example
+R00299,2026-11-06,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Penfold Pay;Quillmark Books,1,0,0,1,first,Quillmark Books,startupnotes.example;smallbizdesk.example;penfoldpay.example
+R00300,2026-11-06,engine-c,P10,N09,commercial,1,United States,ok,1,Tidewater Ledger;Corvid Cash;Harrow Accounts;Quillmark Books,1,0,0,1,first,Harrow Accounts;Quillmark Books,startupnotes.example
