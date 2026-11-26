@@ -1,0 +1,4081 @@
+{
+ "engine-a": {
+  "P01": [
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nOptions people mention include Corvid Cash and Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/guide"
+     },
+     {
+      "url": "https://freelancehub.example/guide"
+     },
+     {
+      "url": "https://startupnotes.example/guide"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://saltboxbooks.example/pricing"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Quillmark Books | handles multi-currency invoices |\n| Saltbox Books | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Penfold Pay** has good bank feeds."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nOptions people mention include Corvid Cash, Quillmark Books and Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://penfoldpay.example/guide"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nOptions people mention include Harrow Accounts, Penfold Pay, Quillmark Books and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   }
+  ],
+  "P02": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Penfold Pay | is affordable for small teams |\n| Saltbox Books | is affordable for small teams |\n| Quillmark Books | is popular with freelancers |\nIf you need a loan, Tidewater Capital lends to small firms."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Quillmark Books** has good bank feeds.\n2. **Harrow Accounts** has a free trial."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Quillmark Books** has a free trial.\n2. **Harrow Accounts** has good bank feeds.\n3. **Larkspur Tax** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nOptions people mention include Harrow Accounts, TidewaterLedger, Corvid Cash and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Harrow Accounts** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nKeep receipts in one folder and reconcile your bank account monthly."
+   }
+  ],
+  "P03": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nOptions people mention include Saltbox Books and Harrow Accounts."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is popular with freelancers |\n| Quillmark Books | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/reviews"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | handles multi-currency invoices |\n| Penfold Pay | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://corvidcash.example/blog/getting-started"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews"
+     },
+     {
+      "url": "https://ledgerreview.example/pricing"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/compare"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nA common choice is Larkspur Tax, which is simple to set up."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "status": "refused",
+    "text": "I can't recommend specific products, but compare price, support and integrations before you choose."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n1. **Quillmark Books** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://go.linkhop.example/r/49e913"
+     },
+     {
+      "url": "https://quillmarkbooks.example/reviews"
+     },
+     {
+      "url": "https://harrowaccounts.example/pricing"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nOptions people mention include Harrow Accounts, Larkspur Tax and Quillmark Books."
+   }
+  ],
+  "P04": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Tidewater Ledger** is popular with freelancers.\n2. **Quillmark Books** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/compare"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is simple to set up |\n| Saltbox Books | is affordable for small teams |\n| Harrow Accounts | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     },
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Harrow Accounts** is popular with freelancers.\n2. **Quillmark Books** is simple to set up.\n3. **Saltbox Books** is affordable for small teams."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Harrow Accounts** handles multi-currency invoices.\n2. **Corvid Cash** has good bank feeds.\n3. **Quillmark Books** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/pricing"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nA common choice is Corvid Cash, which handles multi-currency invoices."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Harrow Accounts** has a free trial.\n2. **Penfold Pay** has good bank feeds.\n3. **Quillmark Books** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://startupnotes.example/pricing"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Corvid Cash | handles multi-currency invoices |\n| Quillmark Books | is popular with freelancers |\n| Tidewater | is simple to set up |\n| Harrow Accounts | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/pricing"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nOptions people mention include Tidewater and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-2",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Larkspur Tax** is affordable for small teams."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-2",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     },
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nA common choice is Penfold Pay, which has a free trial."
+   }
+  ],
+  "P05": [
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nA common choice is Quillmark Books, which is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     },
+     {
+      "url": "https://corvidcash.example/pricing"
+     },
+     {
+      "url": "https://larkspurtax.example/compare"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Larkspur Tax** has good bank feeds.\n2. **Harrow Accounts** is affordable for small teams.\n3. **Penfold Pay** is simple to set up.\n4. **Quillmark Books** is affordable for small teams.\n5. **Corvid Cash** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://penfoldpay.example/blog/getting-started"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Saltbox Books | has a free trial |\n| Harrow Accounts | is simple to set up |\n| Penfold Pay | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Corvid Cash** is simple to set up.\n2. **Quillmark Books** has a free trial.\n3. **Tidewater** handles multi-currency invoices.\n4. **Harrow Accounts** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Saltbox Books and Quillmark Books."
+   },
+   {
+    "error": "HTTP 502",
+    "fail_attempts": 1,
+    "fail_status": "error",
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is affordable for small teams |\n| Tidewater | has a free trial |\n| Saltbox Books | is popular with freelancers |\n| Quillmark Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://larkspurtax.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/pricing"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |\n| Harrow Accounts | is popular with freelancers |\n| Larkspur Tax | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://quillmarkbooks.example/compare"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | is simple to set up |\n| Quillmark Books | has good bank feeds |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-2",
+    "sources": [],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Saltbox Books** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-2",
+    "sources": [
+     {
+      "url": "https://www.tidewaterledger.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Tidewater Ledger** handles multi-currency invoices.\n2. **Saltbox Books** handles multi-currency invoices.\n3. **Quillmark Books** is simple to set up.\n4. **Corvid Cash** is affordable for small teams."
+   }
+  ],
+  "P06": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/pricing"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is popular with freelancers |\n| Larkspur Tax | is popular with freelancers |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Corvid Cash and Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/blog/getting-started"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Corvid Cash** is simple to set up."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | has good bank feeds |\n| TidewaterLedger | has a free trial |\n| Penfold Pay | is affordable for small teams |\n| Saltbox Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Tidewater | is popular with freelancers |\n| Larkspur Tax | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Corvid Cash** is popular with freelancers.\n2. **Larkspur Tax** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/compare"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Harrow Accounts** is affordable for small teams.\n2. **Penfold Pay** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     },
+     {
+      "url": "https://taxbasics.example/compare"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Saltbox Books** has a free trial.\n2. **Harrow Accounts** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Harrow Accounts** has a free trial.\n2. **Larkspur Tax** has good bank feeds.\n3. **Tidewater** has good bank feeds."
+   }
+  ],
+  "P07": [
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |\n| Harrow Accounts | has a free trial |"
+   },
+   {
+    "error": "no response within 60 seconds",
+    "fail_attempts": 3,
+    "fail_status": "timeout",
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://shopkeeper.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Quillmark Books** is simple to set up.\n2. **Saltbox Books** is popular with freelancers.\n3. **Harrow Accounts** is popular with freelancers."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/compare"
+     },
+     {
+      "url": "https://harrowaccounts.example/compare"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Penfold Pay | is simple to set up |\n| Tidewater Ledger | handles multi-currency invoices |\n| Quillmark Books | is popular with freelancers |\n| Harrow Accounts | is affordable for small teams |\n| Saltbox Books | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/guide"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Saltbox Books, Harrow Accounts, Penfold Pay and Quillmark Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Larkspur Tax, Quillmark Books and Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/reviews"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/compare"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Penfold Pay | is simple to set up |\n| Harrow Accounts | has a free trial |\n| Quillmark Books | has good bank feeds |\n| Larkspur Tax | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://corvidcash.example/blog/getting-started"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started"
+     },
+     {
+      "url": "https://freelancehub.example/blog/getting-started"
+     },
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Quillmark Books | handles multi-currency invoices |\n| Corvid Cash | has good bank feeds |\n| Penfold Pay | is affordable for small teams |\n| Saltbox Books | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Saltbox Books, TidewaterLedger and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     },
+     {
+      "url": "https://harrowaccounts.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/guide"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Quillmark Books** has a free trial.\n2. **Harrow Accounts** is affordable for small teams."
+   }
+  ],
+  "P08": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     },
+     {
+      "url": "https://penfoldpay.example/reviews"
+     },
+     {
+      "url": "https://saltboxbooks.example/reviews"
+     },
+     {
+      "url": "https://smallbizdesk.example/guide"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Saltbox Books | is simple to set up |\n| Quillmark Books | has good bank feeds |\n| Penfold Pay | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/pricing"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/blog/getting-started"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has good bank feeds |\n| Harrow Accounts | handles multi-currency invoices |\n| Corvid Cash | is simple to set up |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is popular with freelancers |\n| Harrow Accounts | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://tidewaterledger.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/reviews"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Harrow Accounts** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/guide"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nA common choice is Quillmark Books, which is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/blog/getting-started"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Harrow Accounts, Tidewater Ledger, Quillmark Books and Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/blog/getting-started"
+     },
+     {
+      "url": "https://corvidcash.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is affordable for small teams |\n| TidewaterLedger | is popular with freelancers |\n| Quillmark Books | is simple to set up |\n| Penfold Pay | is simple to set up |\n| Saltbox Books | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/reviews"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nKeep receipts in one folder and reconcile your bank account monthly."
+   }
+  ],
+  "P09": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/blog/getting-started"
+     },
+     {
+      "url": "https://saltboxbooks.example/guide"
+     },
+     {
+      "url": "https://harrowaccounts.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is simple to set up |\n| Saltbox Books | has good bank feeds |\n| Harrow Accounts | has a free trial |\n| Quillmark Books | is simple to set up |\n| Tidewater Ledger | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | has a free trial |\n| Harrow Accounts | is affordable for small teams |\n| Quillmark Books | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Saltbox Books** handles multi-currency invoices.\n2. **Quillmark Books** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Quillmark Books | handles multi-currency invoices |\n| Harrow Accounts | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/878"
+     },
+     {
+      "url": "https://penfoldpay.example/pricing"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Saltbox Books** is simple to set up.\n2. **Penfold Pay** handles multi-currency invoices.\n3. **Tidewater Ledger** is affordable for small teams.\n4. **Quillmark Books** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/guide"
+     },
+     {
+      "url": "https://corvidcash.example/reviews"
+     },
+     {
+      "url": "https://tidewaterledger.example/reviews"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Corvid Cash | handles multi-currency invoices |\n| Tidewater Ledger | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://saltboxbooks.example/compare"
+     },
+     {
+      "url": "https://ledgerreview.example/pricing"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Saltbox Books** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     },
+     {
+      "url": "https://harrowaccounts.example/compare"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Larkspur Tax and Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/659"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Corvid Cash, Quillmark Books and Tidewater."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/pricing"
+     },
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | is affordable for small teams |"
+   }
+  ],
+  "P10": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nThe company behind it is small, and reviews are mixed.\nAlternatives include Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/compare"
+     },
+     {
+      "url": "https://shopkeeper.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is popular with freelancers, which suits a small bakery.\nAlternatives include Harrow Accounts, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     },
+     {
+      "url": "https://saltboxbooks.example/pricing"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger has a free trial, which suits a small bakery.\nAlternatives include Saltbox Books, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://go.linkhop.example/r/f9ae19"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger has a free trial, which suits a small bakery.\nAvoid Tidewater Ledger if you need payroll in the same tool.\nAlternatives include Harrow Accounts, Corvid Cash, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/guide"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater has good bank feeds, which suits a small bakery.\nAlternatives include Quillmark Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger has good bank feeds, which suits a small bakery.\nAlternatives include Corvid Cash."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-a-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater is simple to set up, which suits a small bakery.\nAlternatives include Penfold Pay, Larkspur Tax, Corvid Cash."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is popular with freelancers, which suits a small bakery.\nAlternatives include Quillmark Books, Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/guide"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is affordable for small teams, which suits a small bakery.\nAvoid Tidewater Ledger if you need payroll in the same tool.\nAlternatives include Quillmark Books, Penfold Pay, Harrow Accounts, Saltbox Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-a-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is affordable for small teams, which suits a small bakery.\nAlternatives include Quillmark Books, Larkspur Tax."
+   }
+  ]
+ },
+ "engine-b": {
+  "P01": [
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is popular with freelancers |\n| Quillmark Books | is simple to set up |\n| Penfold Pay | is affordable for small teams |\n| Saltbox Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/compare"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/reviews"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | has good bank feeds |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Quillmark Books** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/compare"
+     },
+     {
+      "url": "https://quillmarkbooks.example/reviews"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Quillmark Books** handles multi-currency invoices.\n2. **Penfold Pay** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/pricing"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nOptions people mention include Penfold Pay and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://freelancehub.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     },
+     {
+      "url": "https://startupnotes.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nOptions people mention include Larkspur Tax, Corvid Cash and Penfold Pay."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Saltbox Books** is affordable for small teams."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nOptions people mention include Penfold Pay, Harrow Accounts, Saltbox Books and Quillmark Books."
+   }
+  ],
+  "P02": [
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\nOptions people mention include Corvid Cash, Larkspur Tax and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Quillmark Books | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/compare"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Saltbox Books** has a free trial.\n2. **Harrow Accounts** has good bank feeds.\n3. **Quillmark Books** has a free trial.\n4. **Larkspur Tax** is simple to set up."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Quillmark Books** has good bank feeds.\n2. **Larkspur Tax** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://help.tidewaterledger.example/articles/521"
+     },
+     {
+      "url": "https://shopkeeper.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is popular with freelancers |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "status": "refused",
+    "text": "I can't recommend specific products, but compare price, support and integrations before you choose."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | is popular with freelancers |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is popular with freelancers |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\nOptions people mention include Corvid Cash and Saltbox Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You need records of income, expenses and receipts for each quarter.\nA common choice is Quillmark Books, which has good bank feeds."
+   }
+  ],
+  "P03": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |\n| Corvid Cash | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/pricing"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "error": "HTTP 503 service unavailable",
+    "fail_attempts": 3,
+    "fail_status": "error",
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is affordable for small teams |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is popular with freelancers |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n1. **Corvid Cash** is affordable for small teams.\n2. **Penfold Pay** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/blog/getting-started"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/801"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     },
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/reviews"
+     },
+     {
+      "url": "https://taxbasics.example/compare"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n1. **Harrow Accounts** handles multi-currency invoices."
+   }
+  ],
+  "P04": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is simple to set up |\n| Quillmark Books | has a free trial |\n| Saltbox Books | is simple to set up |\n| Larkspur Tax | has good bank feeds |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Tidewater** is popular with freelancers.\n2. **Quillmark Books** is popular with freelancers.\n3. **Larkspur Tax** has good bank feeds."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Corvid Cash** handles multi-currency invoices.\n2. **Quillmark Books** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/compare"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Larkspur Tax** has a free trial.\n2. **Harrow Accounts** is affordable for small teams.\n3. **Quillmark Books** is popular with freelancers.\n4. **Saltbox Books** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/505"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Quillmark Books** handles multi-currency invoices.\n2. **Harrow Accounts** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has a free trial |\n| Saltbox Books | is popular with freelancers |\n| Larkspur Tax | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/reviews"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     },
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Saltbox Books** has a free trial.\n2. **Penfold Pay** is popular with freelancers.\n3. **Harrow Accounts** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | is simple to set up |\n| Saltbox Books | is simple to set up |\n| Harrow Accounts | has good bank feeds |\n| Larkspur Tax | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/guide"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | handles multi-currency invoices |\n| Harrow Accounts | has good bank feeds |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/guide"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Saltbox Books** has good bank feeds.\n2. **Penfold Pay** has good bank feeds."
+   }
+  ],
+  "P05": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/pricing"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Saltbox Books and Quillmark Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | has a free trial |\n| Saltbox Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is simple to set up |\n| Tidewater Ledger | is simple to set up |\n| Corvid Cash | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/reviews"
+     },
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/guide"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/guide"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Harrow Accounts and Saltbox Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://startupnotes.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Penfold Pay, Harrow Accounts and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Harrow Accounts and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/guide"
+     },
+     {
+      "url": "https://startupnotes.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/guide"
+     },
+     {
+      "url": "https://saltboxbooks.example/reviews"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Harrow Accounts** is simple to set up.\n2. **Quillmark Books** has a free trial.\n3. **Saltbox Books** is affordable for small teams.\n4. **Tidewater** is affordable for small teams.\n5. **Larkspur Tax** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://ledgerreview.example/guide"
+     },
+     {
+      "url": "https://freelancehub.example/guide"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Harrow Accounts** handles multi-currency invoices.\n2. **Quillmark Books** is popular with freelancers.\n3. **Tidewater Ledger** is popular with freelancers.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Saltbox Books | has good bank feeds |\n| Quillmark Books | is simple to set up |\n| Penfold Pay | handles multi-currency invoices |\n| Harrow Accounts | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://www.tidewaterledger.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/reviews"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Penfold Pay** has a free trial.\n2. **Larkspur Tax** is popular with freelancers."
+   }
+  ],
+  "P06": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/guide"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Saltbox Books** handles multi-currency invoices.\n2. **Tidewater Ledger** is popular with freelancers.\n3. **Harrow Accounts** has a free trial.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Penfold Pay** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/blog/getting-started"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://corvidcash.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Corvid Cash** has a free trial.\n2. **Saltbox Books** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/blog/getting-started"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Saltbox Books and Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://help.tidewaterledger.example/articles/862"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/compare"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Saltbox Books | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/reviews"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Harrow Accounts and TidewaterLedger."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Larkspur Tax and Saltbox Books."
+   }
+  ],
+  "P07": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/pricing"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Harrow Accounts and Penfold Pay."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare"
+     },
+     {
+      "url": "https://freelancehub.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Harrow Accounts** has a free trial.\n2. **Quillmark Books** is affordable for small teams."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is affordable for small teams |\n| Harrow Accounts | has a free trial |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Corvid Cash** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Quillmark Books** has good bank feeds.\n2. **Harrow Accounts** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://quillmarkbooks.example/compare"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | handles multi-currency invoices |\n| Corvid Cash | is popular with freelancers |\n| Quillmark Books | has good bank feeds |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\nA common choice is Penfold Pay, which is simple to set up."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Quillmark Books, Penfold Pay and Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has good bank feeds |\n| Harrow Accounts | has good bank feeds |\n| Larkspur Tax | has a free trial |\n| Saltbox Books | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     },
+     {
+      "url": "https://ledgerreview.example/compare"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Saltbox Books** is affordable for small teams."
+   }
+  ],
+  "P08": [
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Quillmark Books, Penfold Pay and Harrow Accounts."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Penfold Pay and Quillmark Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Corvid Cash | has good bank feeds |\n| Quillmark Books | is simple to set up |\n| Saltbox Books | is simple to set up |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Saltbox Books** has a free trial.\n2. **Harrow Accounts** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/guide"
+     },
+     {
+      "url": "https://harrowaccounts.example/blog/getting-started"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Saltbox Books | is simple to set up |\n| Tidewater Ledger | is affordable for small teams |\n| Harrow Accounts | is popular with freelancers |\n| Quillmark Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has a free trial |\n| Larkspur Tax | is popular with freelancers |"
+   },
+   {
+    "error": "HTTP 500",
+    "fail_attempts": 3,
+    "fail_status": "error",
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://saltboxbooks.example/pricing"
+     },
+     {
+      "url": "https://ledgerreview.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://corvidcash.example/reviews"
+     },
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is popular with freelancers |\n| Saltbox Books | has good bank feeds |\n| Corvid Cash | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Quillmark Books** handles multi-currency invoices.\n2. **Penfold Pay** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Quillmark Books** is popular with freelancers.\n2. **Corvid Cash** is simple to set up.\n3. **Saltbox Books** handles multi-currency invoices.\n4. **Penfold Pay** is affordable for small teams.\n5. **Harrow Accounts** is affordable for small teams."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://ledgerreview.example/pricing"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **TidewaterLedger** is affordable for small teams.\n2. **Quillmark Books** is popular with freelancers.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   }
+  ],
+  "P09": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/pricing"
+     },
+     {
+      "url": "https://harrowaccounts.example/reviews"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | is popular with freelancers |\n| Harrow Accounts | is popular with freelancers |\n| Tidewater Ledger | has a free trial |\nIf you need a loan, Tidewater Capital lends to small firms."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Harrow Accounts and Corvid Cash."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nA common choice is Quillmark Books, which has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/compare"
+     },
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://larkspurtax.example/pricing"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Corvid Cash, Quillmark Books, Larkspur Tax and Harrow Accounts."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Saltbox Books** is simple to set up.\n2. **Larkspur Tax** is simple to set up."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Penfold Pay** handles multi-currency invoices.\n2. **Harrow Accounts** is simple to set up.\n3. **Quillmark Books** has good bank feeds.\n4. **Corvid Cash** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Harrow Accounts** is simple to set up.\n2. **Larkspur Tax** is popular with freelancers.\n3. **Tidewater** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |\n| Tidewater Ledger | has good bank feeds |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/guide"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Penfold Pay | has a free trial |\n| Harrow Accounts | has good bank feeds |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Penfold Pay, Corvid Cash, TidewaterLedger and Quillmark Books."
+   }
+  ],
+  "P10": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/reviews"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater is affordable for small teams, which suits a small bakery.\nAlternatives include Quillmark Books, Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/blog/getting-started"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery? Bakeries often start with Quillmark Books or Harrow Accounts."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is affordable for small teams, which suits a small bakery.\nAlternatives include Quillmark Books, Saltbox Books, Corvid Cash."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/reviews"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is simple to set up, which suits a small bakery.\nAlternatives include Quillmark Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is affordable for small teams, which suits a small bakery.\nAlternatives include Corvid Cash, Quillmark Books, Saltbox Books, Penfold Pay."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is affordable for small teams, which suits a small bakery."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger has a free trial, which suits a small bakery.\nAlternatives include Saltbox Books, Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-b-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/reviews"
+     },
+     {
+      "url": "https://quillmarkbooks.example/reviews"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger has good bank feeds, which suits a small bakery.\nAlternatives include Quillmark Books, Harrow Accounts."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewaterLedger has good bank feeds, which suits a small bakery.\nAvoid Tidewater Ledger if you need payroll in the same tool.\nAlternatives include Harrow Accounts, Quillmark Books, Saltbox Books."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-b-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nThe company behind it is small, and reviews are mixed.\nAlternatives include Saltbox Books, Quillmark Books, Corvid Cash."
+   }
+  ]
+ },
+ "engine-c": {
+  "P01": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Quillmark Books** is simple to set up.\n2. **Larkspur Tax** has good bank feeds.\n3. **TidewaterLedger** is popular with freelancers.\n4. **Corvid Cash** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Tidewater | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://taxbasics.example/guide"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Harrow Accounts** handles multi-currency invoices.\n2. **Quillmark Books** is affordable for small teams."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/reviews"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/425"
+     },
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is popular with freelancers |\n| Tidewater Ledger | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/blog/getting-started"
+     },
+     {
+      "url": "https://ledgerreview.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is popular with freelancers |\n| Corvid Cash | is simple to set up |\n| Penfold Pay | handles multi-currency invoices |\n| TidewaterLedger | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Corvid Cash** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/blog/getting-started"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n1. **Tidewater Ledger** is simple to set up.\n2. **Quillmark Books** is popular with freelancers.\n3. **Saltbox Books** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/compare"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     },
+     {
+      "url": "https://saltboxbooks.example/guide"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\n| Tool | Why |\n|---|---|\n| Corvid Cash | has a free trial |\n| Larkspur Tax | handles multi-currency invoices |\n| Saltbox Books | is affordable for small teams |\n| Quillmark Books | has good bank feeds |\n| Penfold Pay | is affordable for small teams |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-c-model-1",
+    "sources": [],
+    "status": "empty",
+    "text": "   "
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Keeping simple books mostly means recording income and costs every week.\nKeep receipts in one folder and reconcile your bank account monthly."
+   }
+  ],
+  "P02": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare"
+     },
+     {
+      "url": "https://go.linkhop.example/r/bd8dbf"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Larkspur Tax** has a free trial.\n2. **Quillmark Books** is affordable for small teams."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://go.linkhop.example/r/3095da"
+     },
+     {
+      "url": "https://harrowaccounts.example/blog/getting-started"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     },
+     {
+      "url": "https://taxbasics.example/reviews"
+     },
+     {
+      "url": "https://corvidcash.example/blog/getting-started"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | is popular with freelancers |\n| Harrow Accounts | has good bank feeds |\n| Corvid Cash | is popular with freelancers |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/guide"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Larkspur Tax** handles multi-currency invoices.\n2. **Harrow Accounts** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/guide"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Harrow Accounts** handles multi-currency invoices.\n2. **Larkspur Tax** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     },
+     {
+      "url": "https://ledgerreview.example/guide"
+     },
+     {
+      "url": "https://harrowaccounts.example/blog/getting-started"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | handles multi-currency invoices |\n| Corvid Cash | has a free trial |\n| Larkspur Tax | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/guide"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/884"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://larkspurtax.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n1. **Larkspur Tax** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://go.linkhop.example/r/4bb0c8"
+     },
+     {
+      "url": "https://shopkeeper.example/compare"
+     },
+     {
+      "url": "https://ledgerreview.example/reviews"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | has a free trial |\n| Quillmark Books | has good bank feeds |\n| Penfold Pay | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://penfoldpay.example/pricing"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/compare"
+     }
+    ],
+    "text": "You need records of income, expenses and receipts for each quarter.\nOptions people mention include Corvid Cash, Tidewater Ledger, Harrow Accounts and Penfold Pay.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   }
+  ],
+  "P03": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/guide"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/compare"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n1. **Saltbox Books** has good bank feeds.\n2. **Penfold Pay** is popular with freelancers.\n3. **Harrow Accounts** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nKeep receipts in one folder and reconcile your bank account monthly.\nIf you need a loan, Tidewater Capital lends to small firms."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nOptions people mention include Harrow Accounts and Corvid Cash."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/blog/getting-started"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| Corvid Cash | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\nA common choice is Harrow Accounts, which has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/compare"
+     },
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n| Tool | Why |\n|---|---|\n| TidewaterLedger | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/blog/getting-started"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     }
+    ],
+    "text": "Bookkeeping records transactions; accounting interprets them.\n1. **Quillmark Books** handles multi-currency invoices.\n2. **Corvid Cash** has a free trial."
+   }
+  ],
+  "P04": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n1. **Quillmark Books** handles multi-currency invoices.\n2. **Penfold Pay** is popular with freelancers.\n3. **Corvid Cash** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/guide"
+     },
+     {
+      "url": "https://startupnotes.example/compare"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is popular with freelancers |\n| Larkspur Tax | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-c-model-1",
+    "sources": [],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nA common choice is Quillmark Books, which handles multi-currency invoices."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-c-model-1",
+    "sources": [],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nOptions people mention include TidewaterLedger and Quillmark Books.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/856"
+     },
+     {
+      "url": "https://ledgerreview.example/compare"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nOptions people mention include Larkspur Tax, Corvid Cash, Tidewater Ledger and Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nOptions people mention include Corvid Cash, Larkspur Tax and TidewaterLedger."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nKeep receipts in one folder and reconcile your bank account monthly."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/pricing"
+     },
+     {
+      "url": "https://shopkeeper.example/guide"
+     },
+     {
+      "url": "https://go.linkhop.example/r/afc72e"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Saltbox Books | has a free trial |\n| Quillmark Books | has a free trial |\n| TidewaterLedger | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://help.tidewaterledger.example/articles/631"
+     },
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     },
+     {
+      "url": "https://taxbasics.example/reviews"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has a free trial |\n| Harrow Accounts | has a free trial |\n| TidewaterLedger | has a free trial |\n| Larkspur Tax | has good bank feeds |\n| Corvid Cash | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/reviews"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/pricing"
+     }
+    ],
+    "text": "For invoicing in two currencies, look for multi-currency invoices and bank feeds.\nOptions people mention include Corvid Cash, Larkspur Tax, Tidewater Ledger and Quillmark Books.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   }
+  ],
+  "P05": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | is affordable for small teams |\n| Quillmark Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/reviews"
+     },
+     {
+      "url": "https://shopkeeper.example/pricing"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **TidewaterLedger** is affordable for small teams.\n2. **Quillmark Books** is popular with freelancers.\n3. **Larkspur Tax** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/compare"
+     },
+     {
+      "url": "https://shopkeeper.example/guide"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n1. **Penfold Pay** is popular with freelancers.\n2. **Quillmark Books** is simple to set up.\n3. **Tidewater** is simple to set up.\n4. **Harrow Accounts** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Quillmark Books | has a free trial |\n| TidewaterLedger | has a free trial |\n| Larkspur Tax | is simple to set up |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://quillmarkbooks.example/guide"
+     },
+     {
+      "url": "https://go.linkhop.example/r/abc24f"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | has good bank feeds |\n| Quillmark Books | has good bank feeds |\n| Tidewater Ledger | is popular with freelancers |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Saltbox Books | is simple to set up |\n| Tidewater Ledger | is simple to set up |\n| Larkspur Tax | handles multi-currency invoices |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://larkspurtax.example/pricing"
+     },
+     {
+      "url": "https://corvidcash.example/blog/getting-started"
+     },
+     {
+      "url": "https://ledgerreview.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Saltbox Books, Larkspur Tax, Tidewater, Corvid Cash, Penfold Pay and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/reviews"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |\n| Harrow Accounts | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://www.tidewaterledger.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/blog/getting-started"
+     },
+     {
+      "url": "https://harrowaccounts.example/compare"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | has a free trial |\n| Saltbox Books | is affordable for small teams |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://saltboxbooks.example/pricing"
+     },
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/guide"
+     }
+    ],
+    "text": "For a freelancer billing in euros and dollars, a few apps stand out.\nOptions people mention include Saltbox Books, Quillmark Books and Tidewater Ledger."
+   }
+  ],
+  "P06": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/compare"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started"
+     },
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| TidewaterLedger | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/compare"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Corvid Cash and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/guide"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Harrow Accounts** is popular with freelancers.\n2. **Tidewater Ledger** has good bank feeds."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n1. **Larkspur Tax** is simple to set up.\n2. **Harrow Accounts** is affordable for small teams.\n3. **Tidewater** is simple to set up.\n4. **Corvid Cash** is simple to set up."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/pricing"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Harrow Accounts, Saltbox Books and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/reviews"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Tidewater and Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/compare"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is simple to set up |\n| Tidewater | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "If you are moving away from Quillmark Books, these are worth a look.\nOptions people mention include Harrow Accounts and Penfold Pay."
+   }
+  ],
+  "P07": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/reviews"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://saltboxbooks.example/compare"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Saltbox Books, Harrow Accounts, Larkspur Tax, Corvid Cash and Tidewater Ledger.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://penfoldpay.example/compare"
+     },
+     {
+      "url": "https://tidewaterledger.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Corvid Cash** has good bank feeds.\n2. **TidewaterLedger** handles multi-currency invoices.\n3. **Penfold Pay** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/reviews"
+     },
+     {
+      "url": "https://taxbasics.example/guide"
+     },
+     {
+      "url": "https://penfoldpay.example/compare"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Larkspur Tax, Penfold Pay and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/blog/getting-started"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | has a free trial |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/pricing"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/357"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is affordable for small teams |\n| Tidewater Ledger | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Penfold Pay, Harrow Accounts, Corvid Cash, Saltbox Books, Tidewater Ledger and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     },
+     {
+      "url": "https://freelancehub.example/guide"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Harrow Accounts | is popular with freelancers |\n| Tidewater Ledger | is simple to set up |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-c-model-1",
+    "sources": [],
+    "text": "Several invoicing apps offer a free trial you can start today.\nOptions people mention include Quillmark Books, Tidewater and Saltbox Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/blog/getting-started"
+     },
+     {
+      "url": "https://shopkeeper.example/compare"
+     },
+     {
+      "url": "https://smallbizdesk.example/guide"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n1. **Harrow Accounts** has good bank feeds.\n2. **Tidewater** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/compare"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/266"
+     },
+     {
+      "url": "https://startupnotes.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "Several invoicing apps offer a free trial you can start today.\n| Tool | Why |\n|---|---|\n| Tidewater Ledger | has a free trial |\n| Harrow Accounts | has a free trial |\n| Quillmark Books | handles multi-currency invoices |"
+   }
+  ],
+  "P08": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/compare"
+     },
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/261"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Quillmark Books** is affordable for small teams.\n2. **Harrow Accounts** has a free trial.\n3. **Tidewater Ledger** has good bank feeds.\n4. **Larkspur Tax** is popular with freelancers."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/guide"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Tidewater Ledger, Larkspur Tax and Quillmark Books.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/reviews"
+     },
+     {
+      "url": "https://quillmarkbooks.example/reviews"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Quillmark Books, Tidewater Ledger, Harrow Accounts and Larkspur Tax.\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/compare"
+     },
+     {
+      "url": "https://larkspurtax.example/reviews"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Harrow Accounts** handles multi-currency invoices.\n2. **Quillmark Books** handles multi-currency invoices.\n3. **Larkspur Tax** handles multi-currency invoices."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://taxbasics.example/guide"
+     },
+     {
+      "url": "https://saltboxbooks.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Quillmark Books, Larkspur Tax and Saltbox Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://freelancehub.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://startupnotes.example/compare"
+     },
+     {
+      "url": "https://smallbizdesk.example/reviews"
+     },
+     {
+      "url": "https://quillmarkbooks.example/pricing"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Tidewater Ledger, Saltbox Books, Quillmark Books and Harrow Accounts."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://help.tidewaterledger.example/articles/247"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **TidewaterLedger** is affordable for small teams.\n2. **Quillmark Books** is popular with freelancers.\n3. **Larkspur Tax** has a free trial."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://smallbizdesk.example/pricing"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/blog/getting-started"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\nOptions people mention include Tidewater Ledger and Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://larkspurtax.example/compare"
+     },
+     {
+      "url": "https://go.linkhop.example/r/83df37"
+     },
+     {
+      "url": "https://tidewaterledger.example/guide"
+     },
+     {
+      "url": "https://startupnotes.example/guide"
+     },
+     {
+      "url": "https://harrowaccounts.example/compare"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | has good bank feeds |\n| Harrow Accounts | is simple to set up |\n| TidewaterLedger | is popular with freelancers |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/976"
+     },
+     {
+      "url": "https://tidewaterledger.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/blog/getting-started"
+     }
+    ],
+    "text": "For a new online store, start with a tool that connects to your shop platform.\n1. **Harrow Accounts** is simple to set up.\n2. **Quillmark Books** is simple to set up.\n3. **Penfold Pay** is simple to set up."
+   }
+  ],
+  "P09": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://saltboxbooks.example/reviews"
+     },
+     {
+      "url": "https://quillmarkbooks.example/reviews"
+     },
+     {
+      "url": "https://startupnotes.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://freelancehub.example/pricing"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Saltbox Books | is simple to set up |\n| Harrow Accounts | handles multi-currency invoices |\n| TidewaterLedger | handles multi-currency invoices |\n| Quillmark Books | has good bank feeds |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://corvidcash.example/pricing"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://quillmarkbooks.example/compare"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is simple to set up |\n| Larkspur Tax | has a free trial |\n| Harrow Accounts | has good bank feeds |\n| Corvid Cash | is simple to set up |\n| Tidewater Ledger | has good bank feeds |"
+   },
+   {
+    "error": "no response within 60 seconds",
+    "fail_attempts": 2,
+    "fail_status": "timeout",
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://penfoldpay.example/compare"
+     },
+     {
+      "url": "https://ledgerreview.example/guide"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/compare"
+     },
+     {
+      "url": "https://startupnotes.example/reviews?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Larkspur Tax | is affordable for small teams |\n| Penfold Pay | is popular with freelancers |\n| Corvid Cash | is simple to set up |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://harrowaccounts.example/pricing"
+     },
+     {
+      "url": "https://corvidcash.example/blog/getting-started"
+     },
+     {
+      "url": "https://freelancehub.example/reviews"
+     },
+     {
+      "url": "https://shopkeeper.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Larkspur Tax, Penfold Pay, Corvid Cash, Harrow Accounts and Tidewater Ledger."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://taxbasics.example/pricing"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include Tidewater and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     },
+     {
+      "url": "https://harrowaccounts.example/blog/getting-started"
+     },
+     {
+      "url": "https://tidewaterledger.example/compare"
+     },
+     {
+      "url": "https://saltboxbooks.example/pricing"
+     },
+     {
+      "url": "https://taxbasics.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Quillmark Books | is affordable for small teams |\n| Harrow Accounts | is affordable for small teams |\n| Saltbox Books | has good bank feeds |\n| Tidewater | has a free trial |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://shopkeeper.example/guide"
+     },
+     {
+      "url": "https://quillmarkbooks.example/blog/getting-started"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/pricing?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\nOptions people mention include TidewaterLedger, Quillmark Books and Larkspur Tax."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/compare?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Saltbox Books | handles multi-currency invoices |\n| Harrow Accounts | handles multi-currency invoices |"
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://ledgerreview.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://smallbizdesk.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://taxbasics.example/reviews?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://go.linkhop.example/r/f873e1"
+     }
+    ],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n| Tool | Why |\n|---|---|\n| Corvid Cash | handles multi-currency invoices |\n| Tidewater Ledger | has a free trial |\nAvoid Tidewater Ledger if you need payroll in the same tool."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-c-model-1",
+    "sources": [],
+    "text": "For a five-person consultancy, a monthly subscription is usually enough.\n1. **Harrow Accounts** is affordable for small teams.\n2. **Penfold Pay** is popular with freelancers.\n3. **Quillmark Books** is affordable for small teams.\n4. **Saltbox Books** has a free trial."
+   }
+  ],
+  "P10": [
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://harrowaccounts.example/guide"
+     },
+     {
+      "url": "https://ledgerreview.example/compare"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/565"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is popular with freelancers, which suits a small bakery.\nAvoid Tidewater Ledger if you need payroll in the same tool.\nAlternatives include Harrow Accounts, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is simple to set up, which suits a small bakery.\nAlternatives include Corvid Cash, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://www.tidewaterledger.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewaterLedger handles multi-currency invoices, which suits a small bakery.\nAlternatives include Larkspur Tax, Harrow Accounts, Corvid Cash."
+   },
+   {
+    "search_indicated": false,
+    "served_model": "engine-c-model-1",
+    "sources": [],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is simple to set up, which suits a small bakery.\nAvoid Tidewater Ledger if you need payroll in the same tool.\nAlternatives include Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://ledgerreview.example/pricing"
+     },
+     {
+      "url": "https://tidewaterledger.example/compare"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is affordable for small teams, which suits a small bakery.\nAlternatives include Larkspur Tax, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://smallbizdesk.example/pricing?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://shopkeeper.example/blog/getting-started"
+     },
+     {
+      "url": "https://bookkeepingweekly.example/reviews"
+     },
+     {
+      "url": "https://help.tidewaterledger.example/articles/336"
+     },
+     {
+      "url": "https://tidewaterledger.example/pricing"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is popular with freelancers, which suits a small bakery.\nAlternatives include Saltbox Books, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://go.linkhop.example/r/6cae0a"
+     },
+     {
+      "url": "https://taxbasics.example/compare"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater handles multi-currency invoices, which suits a small bakery.\nAlternatives include Corvid Cash, Saltbox Books, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://bookkeepingweekly.example/compare?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://www.tidewaterledger.example/guide?utm_source=engine&utm_medium=answer"
+     },
+     {
+      "url": "https://freelancehub.example/guide?utm_source=engine&utm_medium=answer"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewaterLedger handles multi-currency invoices, which suits a small bakery.\nAlternatives include Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/compare"
+     },
+     {
+      "url": "https://smallbizdesk.example/guide"
+     },
+     {
+      "url": "https://penfoldpay.example/compare"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger has a free trial, which suits a small bakery.\nAlternatives include Penfold Pay, Quillmark Books."
+   },
+   {
+    "search_indicated": true,
+    "served_model": "engine-c-model-1",
+    "sources": [
+     {
+      "url": "https://startupnotes.example/pricing"
+     }
+    ],
+    "text": "You asked: Is Tidewater Ledger a good choice for a small bakery?\nTidewater Ledger is simple to set up, which suits a small bakery.\nAlternatives include Corvid Cash, Harrow Accounts, Quillmark Books."
+   }
+  ]
+ }
+}

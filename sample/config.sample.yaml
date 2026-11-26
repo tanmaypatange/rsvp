@@ -1,0 +1,83 @@
+# Sample config for the dry run. Everything here is fictional: the brand,
+# the competitors, the engines and the canned answers. The engines use the
+# fake adapter, so no engine is called and no key is needed.
+
+protocol_id: sample-tidewater
+illustrative: true
+
+brand:
+  name: Tidewater Ledger
+  domain: tidewaterledger.example
+  aliases: [Tidewater, TidewaterLedger]
+  exclusions: [Tidewater Capital]
+
+competitors:
+  - {name: Quillmark Books, domain: quillmarkbooks.example}
+  - {name: Harrow Accounts, domain: harrowaccounts.example}
+  - {name: Saltbox Books, domain: saltboxbooks.example}
+
+other_brands:
+  - {name: Penfold Pay}
+  - {name: Corvid Cash}
+  - {name: Larkspur Tax}
+
+extra_public_suffixes: []
+
+prompts:
+  - {id: P01, need: N01, intent: informational, text: "How should a two-person design studio keep its books without hiring an accountant?"}
+  - {id: P02, need: N02, intent: informational, text: "What records does a sole trader need to keep for quarterly tax payments?"}
+  - {id: P03, need: N03, intent: informational, text: "What is the difference between bookkeeping and accounting for a small shop?"}
+  - {id: P04, need: N04, intent: commercial, text: "Which accounting software suits a freelance photographer who invoices in two currencies?"}
+  - {id: P05, need: N04, intent: commercial, text: "Best bookkeeping app for a freelancer billing clients in euros and dollars"}
+  - {id: P06, need: N05, intent: commercial, text: "What are good alternatives to Quillmark Books for a small charity?"}
+  - {id: P07, need: N06, intent: transactional, text: "Sign up for an invoicing app with a free trial for my cleaning business"}
+  - {id: P08, need: N07, intent: transactional, text: "Set up accounting software for a new online store today, which should I start with?"}
+  - {id: P09, need: N08, intent: transactional, text: "Buy a bookkeeping subscription for a five-person consultancy"}
+  - {id: P10, need: N09, intent: commercial, branded: true, text: "Is Tidewater Ledger a good choice for a small bakery?"}
+
+engines:
+  - id: engine-a
+    label: Engine A
+    adapter: fake
+    model: engine-a-model-1
+    mode: search-on
+    interface: api
+    location_method: setting
+    options: {canned_file: canned_answers.json}
+  - id: engine-b
+    label: Engine B
+    adapter: fake
+    model: engine-b-model-1
+    mode: search-on
+    interface: api
+    location_method: prompt
+    options: {canned_file: canned_answers.json}
+  - id: engine-c
+    label: Engine C
+    adapter: fake
+    model: engine-c-model-1
+    mode: search-on
+    interface: api
+    location_method: setting
+    options: {canned_file: canned_answers.json}
+
+locations:
+  - {label: United States, country: US}
+network_location: "fixed test network, United States (fictional)"
+location_sentence: "I am in {location}."
+
+runs_per_prompt: 10
+schedule_days: 5
+seed: 7
+
+pilot_threshold: 10
+first_measurement: true
+directional_band_width: 20
+remeasure_weeks: 4
+
+# Dry run only: dates are simulated and redirects come from a fixed map.
+simulated_start_date: "2026-11-02"
+simulated_redirects_file: redirects.json
+retry_backoff_seconds: 2
+min_seconds_between_calls: 1
+resolve_redirects: false
