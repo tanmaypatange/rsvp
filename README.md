@@ -2,6 +2,8 @@
 
 **An open framework for measuring how visible a brand is in AI answers.**
 
+> **Status: work in progress.** RSVP is at v0.1, in Phase 0 (Foundation). Phases 1 to 4 are planned, with no dates. See the [Roadmap](https://github.com/tanmaypatange/rsvp/wiki/Roadmap) for what is planned.
+
 ## About RSVP
 
 RSVP takes a brand, a competitor set and a list of buyer questions, runs every question many times on each AI engine, and reports visibility as a range with a 95% confidence band instead of a single number. It answers the question a client asks: when buyers ask an AI assistant about our category, do we come up, where in the answer, and how sure are we?
@@ -53,6 +55,10 @@ A single check records one draw from a noisy process. If the brand appears, the 
 | Competitors | Chosen as you go | A set of two to four, fixed before the first run |
 | Stability | Hidden | Reported as run spread |
 
+## Roadmap
+
+RSVP is a work in progress. It is at v0.1, in **Phase 0: Foundation**. Phases 1 to 4 are planned, with no dates: Phase 1: Reach, Phase 2: Depth, Phase 3: Over time and Phase 4: Exploring. See the [Roadmap](https://github.com/tanmaypatange/rsvp/wiki/Roadmap) for each phase.
+
 ## Start Here
 
 - [What is RSVP?](https://github.com/tanmaypatange/rsvp/wiki/What-is-RSVP) for the definition.
@@ -61,6 +67,7 @@ A single check records one draw from a noisy process. If the brand appears, the 
 - [The RSVP kit](#the-rsvp-kit) on the repository front page, with the code, the config and the tests.
 - [Sample report](https://github.com/tanmaypatange/rsvp/wiki/Sample-report) for the one-page report format.
 - [Limitations](https://github.com/tanmaypatange/rsvp/wiki/Limitations) for what RSVP cannot tell you yet.
+- [Roadmap](https://github.com/tanmaypatange/rsvp/wiki/Roadmap) for what is planned next.
 
 ## All Pages
 
@@ -98,10 +105,13 @@ A single check records one draw from a noisy process. If the brand appears, the 
 
 ### About
 
+- [Roadmap](https://github.com/tanmaypatange/rsvp/wiki/Roadmap)
 - [Credits and References](https://github.com/tanmaypatange/rsvp/wiki/Credits-and-references)
 - [Docs changelog](https://github.com/tanmaypatange/rsvp/wiki/Docs-changelog)
 
 # The RSVP kit
+
+The kit release is 0.1.1. It implements RSVP v0.1, and [CHANGELOG.md](CHANGELOG.md) lists its releases.
 
 This repository also holds a runnable kit for RSVP: one config file, one command, one report. It uses only the Python standard library. The sample report in [sample/sample_report.md](sample/sample_report.md) is made by its dry run, and every number in it is fictional.
 
@@ -234,4 +244,4 @@ The cell classes (never, rarely under 30%, flipping 30% to 70%, mostly, always) 
 
 ## What the kit does not do
 
-No composite score, no sentiment, no traffic or revenue figures, no exact-URL claims, no prompt rankings from small counts, no bands on share of voice. It measures; it does not explain why a brand is or is not named.
+No composite score, no sentiment, no traffic or revenue figures, no exact-URL claims, no prompt rankings from small counts, no bands on share of voice. It measures; it does not explain why a brand is or is not named. Planned work is in the [Roadmap](https://github.com/tanmaypatange/rsvp/wiki/Roadmap).

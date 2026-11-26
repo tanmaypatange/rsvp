@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping. Small, focused changes are easiest to review. The method docs are in the [wiki](https://github.com/tanmaypatange/rsvp/wiki).
+Thank you for helping. Small, focused changes are easiest to review. The method docs are in the [wiki](https://github.com/tanmaypatange/rsvp/wiki), and planned work is in the [Roadmap](https://github.com/tanmaypatange/rsvp/wiki/Roadmap).
 
 ## Kinds of contribution
 

@@ -582,7 +582,7 @@ def slot_limits(d):
 def slot_method_note(d):
     out = []
     p = d.protocol
-    out.append("- **Measurement ID:** %s. **Config hash:** %s. **Code:** %s. **Method:** %s." % (
+    out.append("- **Measurement ID:** %s. **Config hash:** %s. **Kit release:** %s. **Method:** %s." % (
         d.manifest["measurement_id"], d.manifest["config_hash"][:16], d.manifest["code_version"],
         d.manifest["method_version"]))
     if d.manifest.get("previous_measurement"):

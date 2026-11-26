@@ -20,7 +20,7 @@ import os
 
 import config as config_mod
 
-CODE_VERSION = "0.1.0"
+CODE_VERSION = "0.1.1"
 METHOD_VERSION = "RSVP v0.1"
 
 

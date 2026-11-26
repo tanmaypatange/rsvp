@@ -174,7 +174,7 @@ Each day holds fewer runs than the whole measurement, so each day's band is wide
 
 ## Method note
 
-- **Measurement ID:** sample-tidewater-m1. **Config hash:** ed4c7e51b7d83709. **Code:** 0.1.0. **Method:** RSVP v0.1.
+- **Measurement ID:** sample-tidewater-m1. **Config hash:** ed4c7e51b7d83709. **Kit release:** 0.1.1. **Method:** RSVP v0.1.
 - **Run status:** ok 294, refused 2, error 2, empty 1, timeout 1. Error, empty and timeout are failed runs and are excluded. A refusal in text is a valid run with no mention.
 - **Retries:** 6 runs needed more than one attempt (technical failures only, at most three attempts).
 - **Battery mention rate** (mean of per-prompt rates, equal weight per prompt) against the pooled rate used in the headline: Engine A, United States: battery 22.5%, pooled 22.5%; Engine B, United States: battery 15.8%, pooled 15.9%; Engine C, United States: battery 58.4%, pooled 58.4%.
