@@ -1,0 +1,14 @@
+# Engine keys. Never commit them.
+keys.env
+*.env
+
+# Local measurements and dry-run output.
+measurements/
+measurements-dry-run/
+
+# Your own filled-in protocol.
+config.yaml
+prompts.yaml
+
+__pycache__/
+*.pyc
