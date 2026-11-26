@@ -1,0 +1,29 @@
+# RSVP prompt list. Copy to prompts.yaml and fill in every entry.
+#
+# id:      a unique prompt ID.
+# need:    the buyer need. Paraphrases of one need share a need ID.
+# intent:  exactly one of informational, commercial or transactional.
+# text:    the prompt exactly as it will be sent, written as a buyer would.
+# branded: leave out for the headline list. Set to true only for prompts that
+#          name the client; they are reported as a separate block.
+# eligible: optional. true or false if the brand genuinely matches the prompt.
+#
+# Keep the headline list unbranded. Add as many entries as you need.
+
+prompts:
+  - id: P01
+    need: N01
+    intent:
+    text: ""
+  - id: P02
+    need: N02
+    intent:
+    text: ""
+  - id: P03
+    need: N03
+    intent:
+    text: ""
+  - id: P04
+    need: N04
+    intent:
+    text: ""

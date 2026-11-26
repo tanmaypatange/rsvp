@@ -1,0 +1,76 @@
+# RSVP config. Copy to config.yaml and fill it in before the first run.
+# This file is the pre-registered protocol: once the first run starts, the
+# kit hashes it. Changing the brand, aliases, competitors, prompts, engines,
+# locations or run plan afterwards starts a new measurement ID.
+
+protocol_id: my-brand-baseline       # letters, digits, dot, dash, underscore
+
+brand:
+  name: ""                           # the official name as buyers write it
+  domain: ""                         # registrable domain, for example brand.com
+  aliases: []                        # short forms, product names, spelling variants. Close before the first run
+  exclusions: []                     # other companies or things that share a word with the brand
+
+# Two to four competitors, chosen with the client before the first run and kept fixed.
+competitors:
+  - {name: "", domain: "", aliases: []}
+  - {name: "", domain: "", aliases: []}
+
+# Optional: other brands buyers' answers often name. Used only to order brands
+# for position and to list "other brands named". Never in share of voice.
+other_brands: []
+
+# Optional: extra multi-label public suffixes for registrable-domain matching,
+# for example [com.de] if a domain in your category needs one.
+extra_public_suffixes: []
+
+# The prompt list. Copy prompts.template to prompts.yaml and fill it in,
+# or list prompts inline under a prompts: key instead.
+prompts_file: prompts.yaml
+
+# Engines. Treat two modes of one product as two engines.
+# location_method: setting (the engine's own location setting) or prompt
+# (a sentence at the start of the prompt). The runner never switches silently.
+engines:
+  - id: engine-1
+    label: ""                        # name shown in the report
+    adapter: openai_responses        # openai_responses, perplexity or fake
+    model: ""                        # the model you call
+    mode: search-on                  # search-on or search-off
+    interface: api
+    location_method: setting
+    key_env: OPENAI_API_KEY          # name of the key in keys.env or the environment
+  - id: engine-2
+    label: ""
+    adapter: perplexity
+    model: ""
+    mode: search-on
+    interface: api
+    location_method: setting
+    key_env: PERPLEXITY_API_KEY
+
+# Declared locations. A country for a national prompt list; a city, written as
+# city and country, for place-dependent prompts. Each is reported separately.
+locations:
+  - {label: United States, country: US}
+network_location: ""                 # where the calls come from. Keep it fixed and say where
+location_sentence: "I am in {location}."   # used only by engines with location_method: prompt
+
+# Run plan. Choose runs per prompt from the band width the decision needs.
+runs_per_prompt: 10
+schedule_days: 5                     # runs of every cell are spread across these days
+seed: 1                              # shuffles the order of runs within each day
+
+# Reporting.
+pilot_threshold: 10                  # at or below this many runs per prompt, the report says pilot
+first_measurement: true              # a first measurement is labelled a pilot
+directional_band_width: 20           # headline bands wider than this many points get directional wording
+remeasure_weeks: 4                   # the report gives the next measurement date this far ahead
+
+# Operational settings. These do not change the measurement ID.
+timeout_seconds: 60
+retry_backoff_seconds: 2             # waits between the at most three attempts grow from this
+min_seconds_between_calls: 1         # per engine
+resolve_redirects: true              # follow redirects of cited URLs with a HEAD request
+keys_file: keys.env                  # KEY=value lines. Gitignored. Never commit keys
+output_dir: measurements
