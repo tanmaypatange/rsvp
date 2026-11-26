@@ -2,7 +2,7 @@
 
 **RSVP works in four parts that run in order: a prompt builder, a runner, a counter and a reporter.**
 
-The runner calls every combination of declared location, engine, prompt and run number. The counter codes the stored answers, and the reporter turns the codes into rates and bands. The parts are roles, not products, and one person with and run spread from those codes.
+The runner calls every combination of declared location, engine, prompt and run number. The counter codes the stored answers, and the reporter turns the codes into rates and bands. The parts are roles, not products, and one person can fill more than one of them.
 
 ```mermaid
 flowchart LR
