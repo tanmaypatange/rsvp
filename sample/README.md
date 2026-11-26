@@ -4,11 +4,13 @@ Everything in this folder was made by `python3 rsvp.py dry-run`. The dry run use
 
 The three files show one measurement at three stages: what the runner stores, what the counter adds, and what the reporter writes.
 
-| File | Stage | What it is |
-| --- | --- | --- |
-| `sample_runlog.jsonl` | 1. Raw run log | The runner's output. One JSON row per run, 300 rows. It holds the engine and its details, the declared location and how it was passed, the prompt text sent, the times, the status, the full answer text and the cited links. It holds no counts, no mention flags and no rates. It is append only and is never edited. |
-| `sample_coded_runlog.csv` | 2. Coded run log | The counter's output. Still one row per run, 300 rows. Each run is marked valid or failed, with the brands named in order, mention, cited, ghost citation, position and band, competitors named and cited domains. |
-| `sample_report.md` | 3. Report | The reporter's output. Every count, rate and 95% Wilson band in it is computed from the coded rows. It is the report a client reads. |
+| File | Stage | What it is | View | Download |
+| --- | --- | --- | --- | --- |
+| `sample_runlog.jsonl` | 1. Raw run log | The runner's output. One JSON row per run, 300 rows. It holds the engine and its details, the declared location and how it was passed, the prompt text sent, the times, the status, the full answer text and the cited links. It holds no counts, no mention flags and no rates. It is append only and is never edited. | [view](https://github.com/tanmaypatange/rsvp/blob/main/sample/sample_runlog.jsonl) | [raw](https://raw.githubusercontent.com/tanmaypatange/rsvp/main/sample/sample_runlog.jsonl) |
+| `sample_coded_runlog.csv` | 2. Coded run log | The counter's output. Still one row per run, 300 rows. Each run is marked valid or failed, with the brands named in order, mention, cited, ghost citation, position and band, competitors named and cited domains. | [view](https://github.com/tanmaypatange/rsvp/blob/main/sample/sample_coded_runlog.csv) | [raw](https://raw.githubusercontent.com/tanmaypatange/rsvp/main/sample/sample_coded_runlog.csv) |
+| `sample_report.md` | 3. Report | The reporter's output. Every count, rate and 95% Wilson band in it is computed from the coded rows. It is the report a client reads. | [view](https://github.com/tanmaypatange/rsvp/blob/main/sample/sample_report.md) | [raw](https://raw.githubusercontent.com/tanmaypatange/rsvp/main/sample/sample_report.md) |
+
+Open a file in the viewer to read it in the browser. The raw link opens the plain file, and the Download raw file button on the viewer page saves it.
 
 ## How they connect
 
