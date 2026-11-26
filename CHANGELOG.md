@@ -1,0 +1,18 @@
+# Changelog
+
+Versions of the kit follow MAJOR.MINOR.PATCH. A change to a counting or reporting rule raises the minor number and is listed here with its date. The method version the kit implements is recorded in every measurement manifest.
+
+## 0.1.0: 2026-11-26
+
+First version of the kit, implementing RSVP v0.1.
+
+### Added
+
+- `config.example.yaml` and `prompts.template`: the pre-registered protocol, validated before any run.
+- Runner with separate engine adapters (`openai_responses`, `perplexity`, `fake`): fresh context per run, no follow-ups, at most three attempts for technical failures only, runs spread across days and shuffled within each day, declared location passed by setting or prompt sentence as recorded.
+- Counter: mention flag per run with aliases and exclusions, citation by registrable domain with tracking parameters stripped and redirects resolved, ghost citations, three exclusive position bands.
+- Reporter: visibility, mention and citation rates with 95% Wilson bands per engine and declared location, mention rate by intent, share of voice as counts with its denominator, cell classes, Jaccard overlap, day-by-day rates, a fixed slot per reporting rule, refusal of a report with an empty slot, pilot label and directional wording.
+- Run log: append-only rows, config hash at the start of a measurement, a new measurement ID when the protocol changes, change list and deviations.
+- Second-analyst recode sample and agreement.
+- Dry run on bundled fictional data, and the illustrative sample report it produces.
+- Tests for every rule above, including the Wilson band checks and an end-to-end dry run.
