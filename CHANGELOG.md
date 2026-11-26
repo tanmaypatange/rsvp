@@ -2,6 +2,20 @@
 
 Versions of the kit follow MAJOR.MINOR.PATCH. A change to a counting or reporting rule raises the minor number and is listed here with its date. The method version the kit implements is recorded in every measurement manifest.
 
+## 0.1.1: 2026-11-27
+
+Docs and checks. No counting or reporting rule changed.
+
+### Added
+
+- `docs/`: the RSVP guide, the seven measures, the reporting rules, the sample report, the limitations and the credits and references, with a page on installing and running the kit.
+- `validate` prints a notice, not an error, for engines outside three to six and for unbranded prompts per intent outside four to eight. Tests cover it.
+- The README opens with what RSVP is, the docs, and the Tidewater sample headline, and states the pilot and directional defaults.
+
+### Removed
+
+- `bands.visibility_bounds` and its test. The report states the exact visibility rate from the run log, so the helper was never called.
+
 ## 0.1.0: 2026-11-26
 
 First version of the kit, implementing RSVP v0.1.

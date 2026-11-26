@@ -1,13 +1,13 @@
 # Contributing
 
-Thank you for helping. Small, focused changes are easiest to review.
+Thank you for helping. Small, focused changes are easiest to review. The method docs are in [docs/](docs/README.md).
 
 ## Kinds of contribution
 
 - **Add an engine adapter.** Add one small file in `engines/` with one class that subclasses `engines.Adapter`, and register it in `engines.ADAPTERS`. The adapter sends one prompt in a fresh context, with no earlier messages, and returns an `EngineResponse`. It does not retry, edit answers or store anything; the runner does that. Put cited sources in `sources` exactly as the engine returns them. Return `refused` only when the engine signals a refusal. If the engine's location setting stops working, raise `LocationSettingUnavailable`, so the runner can stop the engine and log a deviation instead of switching silently.
 - **Fix a rule.** Every counting and reporting rule has one code path and at least one test (see the table below). Change both together. If a change alters a definition or a rule, say so in `CHANGELOG.md`.
 - **Add a test.** Tests use the fake adapter and a temporary folder (`tests/helpers.py`). They never call a real engine.
-- **Add a source.** Cite only papers from the RSVP references, by author and year, and flag authors who work for companies that sell visibility products.
+- **Add a source.** Cite only papers listed in the [credits and references](docs/about/credits-and-references.md), by author and year, with a link. Say what the paper found and add no opinion about it.
 
 ## Steps
 
