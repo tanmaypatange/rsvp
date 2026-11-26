@@ -52,9 +52,6 @@ class WilsonBand(unittest.TestCase):
 
 
 class OtherStatistics(unittest.TestCase):
-    def test_visibility_bounds(self):
-        self.assertEqual(bands.visibility_bounds(0.43, 0.45), (0.45, 0.88))
-        self.assertEqual(bands.visibility_bounds(0.7, 0.6), (0.7, 1.0))
 
     def test_jaccard(self):
         self.assertEqual(bands.jaccard({"a", "b"}, {"b", "c"}), 1 / 3)

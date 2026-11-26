@@ -71,6 +71,32 @@ class Validation(unittest.TestCase):
         self.assertTrue(any("model is required" in p for p in problems(engines=engines)))
 
 
+class Notices(unittest.TestCase):
+    def test_no_notice_inside_the_working_ranges(self):
+        cfg = copy.deepcopy(BASE)
+        cfg["engines"] = [{"id": "e%d" % i} for i in range(3)]
+        cfg["prompts"] = [{"id": "p%d" % (3 * i + j), "intent": intent, "need": "n"}
+                          for j, intent in enumerate(("informational", "commercial", "transactional"))
+                          for i in range(4)]
+        self.assertEqual(config_mod.notices(cfg), [])
+
+    def test_notice_for_engines_and_prompts_outside_the_ranges(self):
+        cfg = copy.deepcopy(BASE)
+        cfg["engines"] = [{"id": "e1"}]
+        cfg["prompts"] = [{"id": "p1", "intent": "informational", "need": "n"}]
+        found = config_mod.notices(cfg)
+        self.assertTrue(any("engines" in n and "three to six" in n for n in found))
+        self.assertTrue(any("informational" in n and "four to eight" in n for n in found))
+        self.assertTrue(any("commercial" in n for n in found))
+
+    def test_branded_prompts_are_not_counted(self):
+        cfg = copy.deepcopy(BASE)
+        cfg["engines"] = [{"id": "e%d" % i} for i in range(3)]
+        cfg["prompts"] = [{"id": "p%d" % i, "intent": "commercial", "need": "n", "branded": True}
+                          for i in range(5)]
+        self.assertTrue(any("0 unbranded commercial" in n for n in config_mod.notices(cfg)))
+
+
 class Files(unittest.TestCase):
     def test_example_config_parses_and_asks_to_be_filled(self):
         raw = yamlsubset.load(os.path.join(ROOT, "config.example.yaml"))

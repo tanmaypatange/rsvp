@@ -261,3 +261,24 @@ def changed_sections(old_protocol, new_protocol):
         if ob.get(sub) != nb.get(sub):
             detail.append("brand." + sub)
     return changed, detail
+
+
+def notices(cfg):
+    """Non-fatal notes on settings outside the working ranges in the RSVP docs.
+
+    The ranges are working ranges, not rules: three to six engines (Engines and
+    location page) and four to eight unbranded prompts per intent (Prompt list
+    and intent page). The kit still runs outside them.
+    """
+    out = []
+    n_eng = len(cfg.get("engines") or [])
+    if n_eng < 3 or n_eng > 6:
+        out.append("%d engines is outside the working range of three to six" % n_eng)
+    counts = {"informational": 0, "commercial": 0, "transactional": 0}
+    for pr in cfg.get("prompts") or []:
+        if isinstance(pr, dict) and not pr.get("branded") and pr.get("intent") in counts:
+            counts[pr["intent"]] += 1
+    for intent, n in counts.items():
+        if n < 4 or n > 8:
+            out.append("%d unbranded %s prompts is outside the working range of four to eight per intent" % (n, intent))
+    return out

@@ -3,7 +3,7 @@
 Every constant here traces to the RSVP doc:
 - Z_95 = 1.96, the 95% level of the Wilson band (Confidence Bands page).
 - Cell class cut points 30% and 70% (Run Spread page; they follow
-  Kumar, 2026, a vendor-affiliated study).
+  Kumar, 2026).
 - Rotation cut points 10% and 90% (Run Spread page; an RSVP decision).
 """
 
@@ -62,11 +62,6 @@ def bands_overlap(a, b):
     la, ha = band_pct(*a)
     lb, hb = band_pct(*b)
     return not (ha < lb or hb < la)
-
-
-def visibility_bounds(mention_rate, citation_rate):
-    """Bounds on the visibility rate when only the two rates are known."""
-    return max(mention_rate, citation_rate), min(1.0, mention_rate + citation_rate)
 
 
 def jaccard(a, b):

@@ -54,6 +54,8 @@ def cmd_validate(args):
     print("config is valid: %d planned runs (%d locations x %d engines x %d prompts x %d runs)" % (
         len(plan), len(cfg["locations"]), len(cfg["engines"]), len(cfg["prompts"]), cfg["runs_per_prompt"]))
     print("protocol hash: %s" % config_mod.protocol_hash(cfg))
+    for note in config_mod.notices(cfg):
+        print("notice: %s (a working range, not a rule)" % note)
     return 0
 
 
