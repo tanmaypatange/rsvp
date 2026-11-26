@@ -8,9 +8,9 @@ Docs and checks. No counting or reporting rule changed.
 
 ### Added
 
-- `docs/`: the RSVP guide, the seven measures, the reporting rules, the sample report, the limitations and the credits and references, with a page on installing and running the kit.
+- The RSVP docs, published as 26 pages in the [wiki](https://github.com/tanmaypatange/rsvp/wiki): the guide, the seven measures, the reporting rules, the sample report, the limitations and the credits and references, with a page on installing and running the kit. The repository holds only the kit.
 - `validate` prints a notice, not an error, for engines outside three to six and for unbranded prompts per intent outside four to eight. Tests cover it.
-- The README opens with the docs home page (about RSVP, the seven measures, start here, a list of every page), then the kit sections, and states the pilot and directional defaults.
+- The README opens with the docs home page (about RSVP, the seven measures, start here, a list of every wiki page), then the kit sections, and states the pilot and directional defaults.
 
 ### Removed
 

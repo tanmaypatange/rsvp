@@ -19,15 +19,15 @@ E --> F["One-page<br/>report"]
 
 ## The Seven Measures
 
-1. [Mention](docs/framework/1-mention.md). The brand name appears in the answer text.
-2. [Citation](docs/framework/2-citation.md). The brand's domain is among the cited sources.
-3. [Position](docs/framework/3-position.md). Where the brand sits among the brands named.
-4. [Visibility Rate](docs/framework/4-visibility-rate.md). The share of runs with a mention or a citation.
-5. [Confidence Bands](docs/framework/5-confidence-bands.md). How sure the rate is.
-6. [Share of Voice](docs/framework/6-share-of-voice.md). The client's share of mentions against named competitors.
-7. [Run Spread](docs/framework/7-run-spread.md). How much the answer changes between runs.
+1. [Mention](https://github.com/tanmaypatange/rsvp/wiki/Measure-1-Mention). The brand name appears in the answer text.
+2. [Citation](https://github.com/tanmaypatange/rsvp/wiki/Measure-2-Citation). The brand's domain is among the cited sources.
+3. [Position](https://github.com/tanmaypatange/rsvp/wiki/Measure-3-Position). Where the brand sits among the brands named.
+4. [Visibility Rate](https://github.com/tanmaypatange/rsvp/wiki/Measure-4-Visibility-rate). The share of runs with a mention or a citation.
+5. [Confidence Bands](https://github.com/tanmaypatange/rsvp/wiki/Measure-5-Confidence-bands). How sure the rate is.
+6. [Share of Voice](https://github.com/tanmaypatange/rsvp/wiki/Measure-6-Share-of-voice). The client's share of mentions against named competitors.
+7. [Run Spread](https://github.com/tanmaypatange/rsvp/wiki/Measure-7-Run-spread). How much the answer changes between runs.
 
-Read the [Overview](docs/framework/overview.md) for all seven on one page.
+Read the [Overview](https://github.com/tanmaypatange/rsvp/wiki/Framework-overview) for all seven on one page.
 
 **Tidewater Ledger example.** The kit's sample report measures a made-up brand, Tidewater Ledger, on three made-up engines. Its visibility rate is 71% on Engine C (63 of 89 valid runs, band 61 to 79), 28% on Engine A (25 of 89, band 20 to 38) and 27% on Engine B (24 of 88, band 19 to 37). The bands show Engine C above the other two and no difference between A and B. The same example runs through every page of this doc.
 
@@ -37,7 +37,7 @@ Read the [Overview](docs/framework/overview.md) for all seven on one page.
 - **57.8%.** The share of ChatGPT repetitions that did not activate web search in that study's setup ([Schulte et al., 2026](https://arxiv.org/abs/2604.07585)).
 - **67.0%.** Adjacent-day source turnover on a benchmark of 15 commercial prompts ([Tannenbaum, 2026](https://arxiv.org/abs/2609.22655)).
 
-These figures describe their studies, not any one brand. See [Why do AI answers vary?](docs/guide/why-ai-answers-vary.md).
+These figures describe their studies, not any one brand. See [Why do AI answers vary?](https://github.com/tanmaypatange/rsvp/wiki/Why-do-AI-answers-vary).
 
 ## Why RSVP?
 
@@ -55,51 +55,51 @@ A single check records one draw from a noisy process. If the brand appears, the 
 
 ## Start Here
 
-- [What is RSVP?](docs/guide/what-is-rsvp.md) for the definition.
-- [Quickstart](docs/guide/quickstart.md) to run a first measurement.
-- [Install and run the kit](docs/guide/install-and-run-the-kit.md) to set up the kit and try the dry run.
+- [What is RSVP?](https://github.com/tanmaypatange/rsvp/wiki/What-is-RSVP) for the definition.
+- [Quickstart](https://github.com/tanmaypatange/rsvp/wiki/Quickstart) to run a first measurement.
+- [Install and run the kit](https://github.com/tanmaypatange/rsvp/wiki/Install-and-run-the-kit) to set up the kit and try the dry run.
 - [The RSVP kit](#the-rsvp-kit) on the repository front page, with the code, the config and the tests.
-- [Sample report](docs/reports/sample-report.md) for the one-page report format.
-- [Limitations](docs/guide/limitations.md) for what RSVP cannot tell you yet.
+- [Sample report](https://github.com/tanmaypatange/rsvp/wiki/Sample-report) for the one-page report format.
+- [Limitations](https://github.com/tanmaypatange/rsvp/wiki/Limitations) for what RSVP cannot tell you yet.
 
 ## All Pages
 
 ### Guide
 
-- [What is RSVP?](docs/guide/what-is-rsvp.md)
-- [RSVP vs single checks and share of voice](docs/guide/rsvp-vs-single-checks.md)
-- [Why do AI answers vary?](docs/guide/why-ai-answers-vary.md)
-- [How does RSVP work?](docs/guide/how-rsvp-works.md)
-- [How to Run Your First RSVP Measurement: The Quickstart](docs/guide/quickstart.md)
-- [Install and run the kit](docs/guide/install-and-run-the-kit.md)
-- [What does an RSVP measurement need as input?](docs/guide/inputs.md)
-- [Prompt list and intent](docs/guide/prompt-list-and-intent.md)
-- [Engines and location](docs/guide/engines-and-location.md)
-- [Runs and sample size](docs/guide/runs-and-sample-size.md)
-- [Reading results](docs/guide/reading-results.md)
-- [What are the limitations of RSVP?](docs/guide/limitations.md)
-- [RSVP FAQ](docs/guide/faq.md)
+- [What is RSVP?](https://github.com/tanmaypatange/rsvp/wiki/What-is-RSVP)
+- [RSVP vs single checks and share of voice](https://github.com/tanmaypatange/rsvp/wiki/RSVP-vs-single-checks)
+- [Why do AI answers vary?](https://github.com/tanmaypatange/rsvp/wiki/Why-do-AI-answers-vary)
+- [How does RSVP work?](https://github.com/tanmaypatange/rsvp/wiki/How-RSVP-works)
+- [How to Run Your First RSVP Measurement: The Quickstart](https://github.com/tanmaypatange/rsvp/wiki/Quickstart)
+- [Install and run the kit](https://github.com/tanmaypatange/rsvp/wiki/Install-and-run-the-kit)
+- [What does an RSVP measurement need as input?](https://github.com/tanmaypatange/rsvp/wiki/Inputs)
+- [Prompt list and intent](https://github.com/tanmaypatange/rsvp/wiki/Prompt-list-and-intent)
+- [Engines and location](https://github.com/tanmaypatange/rsvp/wiki/Engines-and-location)
+- [Runs and sample size](https://github.com/tanmaypatange/rsvp/wiki/Runs-and-sample-size)
+- [Reading results](https://github.com/tanmaypatange/rsvp/wiki/Reading-results)
+- [What are the limitations of RSVP?](https://github.com/tanmaypatange/rsvp/wiki/Limitations)
+- [RSVP FAQ](https://github.com/tanmaypatange/rsvp/wiki/FAQ)
 
 ### Framework: the seven measures
 
-- [Overview](docs/framework/overview.md)
-- [1. Mention](docs/framework/1-mention.md)
-- [2. Citation](docs/framework/2-citation.md)
-- [3. Position](docs/framework/3-position.md)
-- [4. Visibility Rate](docs/framework/4-visibility-rate.md)
-- [5. Confidence Bands](docs/framework/5-confidence-bands.md)
-- [6. Share of Voice](docs/framework/6-share-of-voice.md)
-- [7. Run Spread](docs/framework/7-run-spread.md)
+- [Overview](https://github.com/tanmaypatange/rsvp/wiki/Framework-overview)
+- [1. Mention](https://github.com/tanmaypatange/rsvp/wiki/Measure-1-Mention)
+- [2. Citation](https://github.com/tanmaypatange/rsvp/wiki/Measure-2-Citation)
+- [3. Position](https://github.com/tanmaypatange/rsvp/wiki/Measure-3-Position)
+- [4. Visibility Rate](https://github.com/tanmaypatange/rsvp/wiki/Measure-4-Visibility-rate)
+- [5. Confidence Bands](https://github.com/tanmaypatange/rsvp/wiki/Measure-5-Confidence-bands)
+- [6. Share of Voice](https://github.com/tanmaypatange/rsvp/wiki/Measure-6-Share-of-voice)
+- [7. Run Spread](https://github.com/tanmaypatange/rsvp/wiki/Measure-7-Run-spread)
 
 ### Reference
 
-- [RSVP Reporting Rules v0.1: Draft Specification](docs/specifications/reporting-rules-v01.md)
-- [RSVP report: Tidewater Ledger](docs/reports/sample-report.md)
+- [RSVP Reporting Rules v0.1: Draft Specification](https://github.com/tanmaypatange/rsvp/wiki/Reporting-rules-v01)
+- [RSVP report: Tidewater Ledger](https://github.com/tanmaypatange/rsvp/wiki/Sample-report)
 
 ### About
 
-- [Credits and References](docs/about/credits-and-references.md)
-- [Docs changelog](docs/CHANGELOG.md)
+- [Credits and References](https://github.com/tanmaypatange/rsvp/wiki/Credits-and-references)
+- [Docs changelog](https://github.com/tanmaypatange/rsvp/wiki/Docs-changelog)
 
 # The RSVP kit
 
@@ -230,7 +230,7 @@ These choices are RSVP decisions, not published findings:
 - A competitor rotates in a cell if it appears in more than 10% and fewer than 90% of the cell's valid runs.
 - An explicit refusal in text is a valid run; an empty body is a failed run.
 
-The cell classes (never, rarely under 30%, flipping 30% to 70%, mostly, always) follow [Kumar (2026)](https://arxiv.org/abs/2606.20065). Every study the docs name is listed in [credits and references](docs/about/credits-and-references.md).
+The cell classes (never, rarely under 30%, flipping 30% to 70%, mostly, always) follow [Kumar (2026)](https://arxiv.org/abs/2606.20065). Every study the docs name is listed in [credits and references](https://github.com/tanmaypatange/rsvp/wiki/Credits-and-references).
 
 ## What the kit does not do
 
