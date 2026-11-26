@@ -58,7 +58,47 @@ A single check records one draw from a noisy process. If the brand appears, the 
 - [What is RSVP?](guide/what-is-rsvp.md) for the definition.
 - [Quickstart](guide/quickstart.md) to run a first measurement.
 - [Install and run the kit](guide/install-and-run-the-kit.md) to set up the kit and try the dry run.
+- [The RSVP kit](../README.md#the-rsvp-kit) on the repository front page, with the code, the config and the tests.
 - [Sample report](reports/sample-report.md) for the one-page report format.
 - [Limitations](guide/limitations.md) for what RSVP cannot tell you yet.
+
+## All Pages
+
+### Guide
+
+- [What is RSVP?](guide/what-is-rsvp.md)
+- [RSVP vs single checks and share of voice](guide/rsvp-vs-single-checks.md)
+- [Why do AI answers vary?](guide/why-ai-answers-vary.md)
+- [How does RSVP work?](guide/how-rsvp-works.md)
+- [How to Run Your First RSVP Measurement: The Quickstart](guide/quickstart.md)
+- [Install and run the kit](guide/install-and-run-the-kit.md)
+- [What does an RSVP measurement need as input?](guide/inputs.md)
+- [Prompt list and intent](guide/prompt-list-and-intent.md)
+- [Engines and location](guide/engines-and-location.md)
+- [Runs and sample size](guide/runs-and-sample-size.md)
+- [Reading results](guide/reading-results.md)
+- [What are the limitations of RSVP?](guide/limitations.md)
+- [RSVP FAQ](guide/faq.md)
+
+### Framework: the seven measures
+
+- [Overview](framework/overview.md)
+- [1. Mention](framework/1-mention.md)
+- [2. Citation](framework/2-citation.md)
+- [3. Position](framework/3-position.md)
+- [4. Visibility Rate](framework/4-visibility-rate.md)
+- [5. Confidence Bands](framework/5-confidence-bands.md)
+- [6. Share of Voice](framework/6-share-of-voice.md)
+- [7. Run Spread](framework/7-run-spread.md)
+
+### Reference
+
+- [RSVP Reporting Rules v0.1: Draft Specification](specifications/reporting-rules-v01.md)
+- [RSVP report: Tidewater Ledger](reports/sample-report.md)
+
+### About
+
+- [Credits and References](about/credits-and-references.md)
+- [Docs changelog](CHANGELOG.md)
 
 Last updated: November 26, 2026

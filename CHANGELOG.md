@@ -10,7 +10,7 @@ Docs and checks. No counting or reporting rule changed.
 
 - `docs/`: the RSVP guide, the seven measures, the reporting rules, the sample report, the limitations and the credits and references, with a page on installing and running the kit.
 - `validate` prints a notice, not an error, for engines outside three to six and for unbranded prompts per intent outside four to eight. Tests cover it.
-- The README opens with what RSVP is, the docs, and the Tidewater sample headline, and states the pilot and directional defaults.
+- The README opens with the docs home page (about RSVP, the seven measures, start here, a list of every page), then the kit sections, and states the pilot and directional defaults.
 
 ### Removed
 
